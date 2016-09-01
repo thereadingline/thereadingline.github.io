@@ -11,7 +11,7 @@
     {% for page in site.pages reversed %}
     {% if page.title %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a href="{{ site.url }}/{{ page.url }}" class="portfolio-link">
+        <a href="{{ site.url }}{{ page.url }}" class="portfolio-link">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               Learn More
