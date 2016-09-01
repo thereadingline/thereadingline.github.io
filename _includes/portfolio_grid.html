@@ -1,0 +1,31 @@
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Book Rides</h2>
+        <h3 class="section-subheading text-muted">All the rides that have already happened, and all the rides that are in the works!</h3>
+      </div>
+    </div>
+    <div class="row">
+    {% for page in site.pages reversed %}
+    {% if page.title %}
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a href="{{ site.url }}/{{ page.url }}" class="portfolio-link">
+          <div class="portfolio-hover">
+            <div class="portfolio-hover-content">
+              Learn More
+            </div>
+          </div>
+          <img src="img/rides/{{ page.slug }}/thumbnail.jpg" class="img-responsive img-centered" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h4>{{ page.title }}</h4>
+          <p class="text-muted">{{ page.date | date: "%B %Y" }}</p>
+        </div>
+      </div>
+    {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</section>

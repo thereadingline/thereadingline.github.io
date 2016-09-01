@@ -1,0 +1,33 @@
+people:
+- name: Janet Joy Wilson
+  pic: janet-joy-wilson
+  position: Lead Organizer
+  social:
+    - title: twitter
+      url: https://twitter.com/jsquaredink
+    - title: instagram
+      url: https://www.instagram.com/jsquaredink/
+    - title: home
+      url: http://janetjoywilson.ca
+
+- name: Amanda Lewis
+  pic: amanda-lewis
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: https://twitter.com/aemlewis
+    - title: instagram
+      url: https://www.instagram.com/theamandalewis/
+    - title: linkedin
+      url: https://www.linkedin.com/in/amanda-lewis-56942473
+
+- name: Robertson McClure
+  pic: robertson-mcclure
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/robertsonmcclur/
+    - title: instagram
+      url: https://www.instagram.com/robertsonmcclure/
+    - title: home
+      url: http://robertsonmcclure.ca/

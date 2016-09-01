@@ -1,0 +1,28 @@
+<footer id="contact-info" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h4>Quick Links</h4>
+        <ul style="list-style-type: none;padding-left:0;">
+          <li><a href="{{ site.url }}">Home page</a></li>
+          {% for ride in site.pages reversed %}
+          {% if ride.title %}
+          <li style="margin-top:10px;"><a href="{{ site.url }}/{{ ride.slug }}">{{ ride.title }} - {{ ride.date | date: "%Y" }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for network in site.social %}
+          <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+      </div>
+    </div>
+  </div>
+</footer>
