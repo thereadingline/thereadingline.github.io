@@ -1,8 +1,8 @@
 # Site settings
 title: The Reading Line
 email: thereadingline@gmail.com
-description: "The Reading Line is an amazing organization that hosts book rides anually."
-url: http://localhost:4000
+description: "The Reading Line is an amazing organization that hosts book rides annually."
+url: http://thereadingline.github.io
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
