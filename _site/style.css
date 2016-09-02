@@ -27,7 +27,7 @@ body {
 }
 
 p {
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
     font-size: 14px;
     line-height: 1.75;
 }
@@ -270,11 +270,11 @@ fieldset[disabled] .btn-xl.active {
         font-size: 1.5em;
     }
 }
-
+/* */
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('http://localhost:4000/img/books_bicycle.jpg');
     background-position: center center;
     background-repeat: none;
@@ -671,11 +671,12 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
-    background-color: #222;
-    background-image: url('/img/map-image.png');
-    background-position: center;
+section#map {
+    background-image: url('http://localhost:4000/img/rides/the-green-line/map.png');
+    background-position: top;
     background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
 }
 
 section#contact .section-heading {

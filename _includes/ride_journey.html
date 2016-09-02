@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-lg-12 text-center">
             <h2 class="section-heading">Our Journey</h2>
-            <h3 class="section-subheading">The route that {{ page.title }} took</h3>
+            <h3 class="section-subheading">Highlights from the {{ page.title }}</h3>
         </div>
     </div>
     <div class="row">
@@ -21,11 +21,11 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
+                <h5 class="subheading text-muted">{{ item.subheading}}</h5>
                 <h4>{{ item.title }}</h4>
-                <h4 class="subheading">{{ item.subheading}}</h4>
               </div>
               <div class="timeline-body">
-                <p class="text-muted">
+                <p>
                   {{ item.about }}
                 </p>
               </div>

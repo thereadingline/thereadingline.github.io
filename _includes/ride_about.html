@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">About</h2>
-        <h3 class="section-subheading">Information about {{ page.title }}</h3>
+        <h3 class="section-subheading">{{ page.description }}</h3>
       </div>
     </div>
     <div class="row text-center">
@@ -14,7 +14,7 @@
             <i class="fa {{ topic.img }} fa-stack-1x fa-inverse"></i>
           </span>
           <h4 class="service-heading">{{ topic.title }}</h4>
-          <p class="text-muted">
+          <p>
             {{ topic.body }}
           </p>
         </div>
