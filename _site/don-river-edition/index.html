@@ -26,25 +26,7 @@
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script>
-    $(document).ready(function () {
-        $('#map').addClass('scrolloff');                // set the mouse events to none when doc is ready
-
-        $('#overlay').on("mouseup",function(){          // lock it when mouse up
-            $('#map').addClass('scrolloff');
-            //somehow the mouseup event doesn't get call...
-        });
-        $('#overlay').on("mousedown",function(){        // when mouse down, set the mouse events free
-            $('#map').removeClass('scrolloff');
-        });
-        $("#map").mouseleave(function () {              // becuase the mouse up doesn't work...
-            $('#map').addClass('scrolloff');            // set the pointer events to none when mouse leaves the map area
-                                                        // or you can do it on some other event
-        });
-    });
-    </script>
+    <![endif]-->    
 </head>
 
 
@@ -74,10 +56,10 @@
                     <a class="page-scroll" href="#services">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">Highlights</a>
+                    <a class="page-scroll" href="#route">Route</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#route">Route</a>
+                    <a class="page-scroll" href="#about">Highlights</a>
                 </li>
             </ul>
         </div>
@@ -310,6 +292,8 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="/js/agency.js"></script>
+
+    <script src="/js/map.js"></script>
 
 
     </body>
