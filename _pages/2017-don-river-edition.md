@@ -3,29 +3,31 @@ layout: page
 title: Don River Edition
 slug: don-river-edition
 permalink: /don-river-edition/
-date: 2017-01-01
+date: 2017-09-01
+distance: 5
 description: Everything the front page needs to know about the Don River Edition
+route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
 about:
-  - title: First title
-    img: fa-shopping-cart
-    body: This is the body
-  - title: Second title
-    img: fa-anchor
-    body: This is the body
-  - title: Third title
-    img: fa-arrows
-    body: This is the body
+  - title: Evergreen Brickworks
+    img: fa-tree
+    body: About
+  - title: The Don River
+    img: fa-bicycle
+    body: About
+  - title: Corktown Commons
+    img: fa-map-signs
+    body: About
 journey:
-  - title: One
-    subheading: Yes
+  - title: Title
+    subheading: Location
     img: 1.jpg
-    about: About YES ONE
-  - title: Two
-    subheading: No
-    img: 1.jpg
-    about: About NO TWO
-  - title: Three
-    subheading: YAY
-    img: 1.jpg
-    about: I like my job
+    about: About
+  - title: Title
+    subheading: Location
+    img: 2.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 3.jpg
+    about: About
 ---

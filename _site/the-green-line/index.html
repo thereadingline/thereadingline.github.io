@@ -27,6 +27,24 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+    $(document).ready(function () {
+        $('#map').addClass('scrolloff');                // set the mouse events to none when doc is ready
+
+        $('#overlay').on("mouseup",function(){          // lock it when mouse up
+            $('#map').addClass('scrolloff');
+            //somehow the mouseup event doesn't get call...
+        });
+        $('#overlay').on("mousedown",function(){        // when mouse down, set the mouse events free
+            $('#map').removeClass('scrolloff');
+        });
+        $("#map").mouseleave(function () {              // becuase the mouse up doesn't work...
+            $('#map').addClass('scrolloff');            // set the pointer events to none when mouse leaves the map area
+                                                        // or you can do it on some other event
+        });
+    });
+    </script>
 </head>
 
 
@@ -56,7 +74,10 @@
                     <a class="page-scroll" href="#services">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">Journey</a>
+                    <a class="page-scroll" href="#about">Highlights</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#route">Route</a>
                 </li>
             </ul>
         </div>
@@ -70,11 +91,12 @@
     <div class="container">
         <div class="intro-text">
             <div class="intro-heading">The Green Line</div>
+            <div class="intro-lead-in">October 2014</div>
         </div>
     </div>
 </header>
 
-    <section id="services" class="bg-light-gray">
+    <section id="services">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -121,15 +143,31 @@
   </div>
 </section>
 
-    <section id="map" class="bg-light-gray">
+    <section id="splash">
+</section>
+
+    <section id="route" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">The Route</h2>
+            <h3 class="section-subheading">We cycled 5 kilometers! Click on the map to explore!</h3>
+        </div>
+    </div>
+    <div class="row">
+      <div id="overlay" class="col-lg-12 map" style="padding:0 10%;">
+        <iframe id="map" src="https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic" width="100%" height="500px" frameborder="0" style="border:2px solid #39A939;"></iframe>
+      </div>
+    </div>
+  </div>
 </section>
 
     <section id="about">
   <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Our Journey</h2>
-            <h3 class="section-subheading">Highlights from the The Green Line</h3>
+            <h2 class="section-heading">Highlights</h2>
+            <h3 class="section-subheading">A collection of fun things that happened during The Green Line</h3>
         </div>
     </div>
     <div class="row">

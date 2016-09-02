@@ -3,29 +3,51 @@ layout: page
 title: Books on Bathurst
 slug: books-on-bathurst
 permalink: /books-on-bathurst/
-date: 2016-01-01
+date: 2016-05-28
+distance: 10
 description: Everything the front page needs to know about Books on Bathurst
+route_src: https://www.google.com/maps/d/u/0/embed?mid=1q4IwCCzsAh-q6YvHmMVYgEjolqY
 about:
-  - title: First title
-    img: fa-shopping-cart
-    body: This is the body
-  - title: Second title
-    img: fa-anchor
-    body: This is the body
-  - title: Third title
-    img: fa-arrows
-    body: This is the body
+  - title: Jane Jacobs
+    img: fa-road
+    body: About
+  - title: Population Density
+    img: fa-users
+    body: About
+  - title: Historical
+    img: fa-history
+    body: About
 journey:
-  - title: One
-    subheading: Yes
+  - title: Title
+    subheading: Location
     img: 1.jpg
-    about: About YES ONE
-  - title: Two
-    subheading: No
-    img: 1.jpg
-    about: About NO TWO
-  - title: Three
-    subheading: YAY
-    img: 1.jpg
-    about: I like my job
+    about: About
+  - title: Title
+    subheading: Location
+    img: 2.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 3.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 4.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 5.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 6.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 7.jpg
+    about: About
+  - title: Title
+    subheading: Location
+    img: 8.jpg
+    about: About
 ---

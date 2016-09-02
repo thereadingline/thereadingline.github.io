@@ -3,9 +3,10 @@ layout: page
 title: 'The Green Line'
 slug: the-green-line
 permalink: /the-green-line/
-date: 2014-01-01
-something: else
+date: 2014-10-04
+distance: 5
 description: Toronto's Green Line is a 5 km east-west hydro corridor with the potential to be a continuous park and transportation network for cyclists and pedestrians.
+route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
 about:
   - title: Why here?
     img: fa-question
@@ -15,7 +16,7 @@ about:
     body: We started at Book City in Bloor West Village, where Catherine Bush presented her novel, Accusation. Once we arrived at the Green Line, Shawn Micallef talked to the design potential of the area (Shawn was a judge of the Green Line Design competition in 2012–2013). Then Kathryn Kuitenbrouwer spoke about her novel, All the Broken Things, which is set in High Park. Kathryn focused on how we interpret the city through fiction. Through her writing on urban issues, Amy Lavender Harris spoke about cycling in the city. Amy also gave us a sneak peak into some of her new writings. Christina Palassio shared her thoughts on local food at a community garden just down the street from The Stop Community Food Centre. We finished with an energetic performance from spoken word artist and activist Tanya Neumeyer.
   - title: Shop Local
     img: fa-shopping-cart
-    body: We wanted to connect our communities with our retailers and show that families on bicycles want to stop and shop local. The goal was to promote small businesses including Book City, Sweet Flour, Featherstone Two Wheels Green Delivery, BeerBikeTO, VERT Catering, and Coco Organic Crafted Chocolate. A big shout out to Laurie from Featherstone Two Wheels Green Delivery, who acted as our bookmobile for the day. Laurie pulled a ton of books using pedal power and sheer determination. 
+    body: We wanted to connect our communities with our retailers and show that families on bicycles want to stop and shop local. The goal was to promote small businesses including Book City, Sweet Flour, Featherstone Two Wheels Green Delivery, BeerBikeTO, VERT Catering, and Coco Organic Crafted Chocolate. A big shout out to Laurie from Featherstone Two Wheels Green Delivery, who acted as our bookmobile for the day. Laurie pulled a ton of books using pedal power and sheer determination.
 journey:
   - title: Book City
     subheading: Bloor West Village
@@ -40,5 +41,5 @@ journey:
 
 ---
 
-<section id="map" class="bg-light-gray">
+<section id="splash">
 </section>

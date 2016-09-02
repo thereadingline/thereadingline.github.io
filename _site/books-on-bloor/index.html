@@ -27,6 +27,24 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+    $(document).ready(function () {
+        $('#map').addClass('scrolloff');                // set the mouse events to none when doc is ready
+
+        $('#overlay').on("mouseup",function(){          // lock it when mouse up
+            $('#map').addClass('scrolloff');
+            //somehow the mouseup event doesn't get call...
+        });
+        $('#overlay').on("mousedown",function(){        // when mouse down, set the mouse events free
+            $('#map').removeClass('scrolloff');
+        });
+        $("#map").mouseleave(function () {              // becuase the mouse up doesn't work...
+            $('#map').addClass('scrolloff');            // set the pointer events to none when mouse leaves the map area
+                                                        // or you can do it on some other event
+        });
+    });
+    </script>
 </head>
 
 
@@ -56,7 +74,10 @@
                     <a class="page-scroll" href="#services">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">Journey</a>
+                    <a class="page-scroll" href="#about">Highlights</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#route">Route</a>
                 </li>
             </ul>
         </div>
@@ -70,11 +91,12 @@
     <div class="container">
         <div class="intro-text">
             <div class="intro-heading">Books on Bloor</div>
+            <div class="intro-lead-in">May 2015</div>
         </div>
     </div>
 </header>
 
-    <section id="services" class="bg-light-gray">
+    <section id="services">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -87,33 +109,33 @@
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
             <i class="fa fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+            <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 class="service-heading">First title</h4>
+          <h4 class="service-heading">Politics</h4>
           <p>
-            This is the body
+            About
           </p>
         </div>
       
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
             <i class="fa fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa fa-anchor fa-stack-1x fa-inverse"></i>
+            <i class="fa fa-heart-o fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 class="service-heading">Second title</h4>
+          <h4 class="service-heading">Bloor Loves Bikes Lanes</h4>
           <p>
-            This is the body
+            About
           </p>
         </div>
       
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
             <i class="fa fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa fa-arrows fa-stack-1x fa-inverse"></i>
+            <i class="fa fa-shopping-bag fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 class="service-heading">Third title</h4>
+          <h4 class="service-heading">Shop Local</h4>
           <p>
-            This is the body
+            About
           </p>
         </div>
       
@@ -123,12 +145,28 @@
 
     
 
+    <section id="route" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">The Route</h2>
+            <h3 class="section-subheading">We cycled 12 kilometers! Click on the map to explore!</h3>
+        </div>
+    </div>
+    <div class="row">
+      <div id="overlay" class="col-lg-12 map" style="padding:0 10%;">
+        <iframe id="map" src="https://www.google.com/maps/d/u/0/embed?mid=1W2VvoWQvZ9ESBu-hs-n1HMlBATw" width="100%" height="500px" frameborder="0" style="border:2px solid #39A939;"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
     <section id="about">
   <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Our Journey</h2>
-            <h3 class="section-subheading">Highlights from the Books on Bloor</h3>
+            <h2 class="section-heading">Highlights</h2>
+            <h3 class="section-subheading">A collection of fun things that happened during Books on Bloor</h3>
         </div>
     </div>
     <div class="row">
@@ -144,12 +182,12 @@
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h5 class="subheading text-muted">true</h5>
-                <h4>One</h4>
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
               </div>
               <div class="timeline-body">
                 <p>
-                  About YES ONE
+                  About
                 </p>
               </div>
             </div>
@@ -160,16 +198,16 @@
             <li class="timeline-inverted">
           
             <div class="timeline-image">
-              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/1.jpg" alt="">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/2.jpg" alt="">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h5 class="subheading text-muted">false</h5>
-                <h4>Two</h4>
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
               </div>
               <div class="timeline-body">
                 <p>
-                  About NO TWO
+                  About
                 </p>
               </div>
             </div>
@@ -180,16 +218,116 @@
             <li>
           
             <div class="timeline-image">
-              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/1.jpg" alt="">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/3.jpg" alt="">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
-                <h5 class="subheading text-muted">YAY</h5>
-                <h4>Three</h4>
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
               </div>
               <div class="timeline-body">
                 <p>
-                  I like my job
+                  About
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          
+          
+            <li class="timeline-inverted">
+          
+            <div class="timeline-image">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/4.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  About
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          
+          
+            <li>
+          
+            <div class="timeline-image">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/5.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  About
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          
+          
+            <li class="timeline-inverted">
+          
+            <div class="timeline-image">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/6.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  About
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          
+          
+            <li>
+          
+            <div class="timeline-image">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/7.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  About
+                </p>
+              </div>
+            </div>
+          </li>
+          
+          
+          
+            <li class="timeline-inverted">
+          
+            <div class="timeline-image">
+              <img class="img-circle img-responsive" src="http://localhost:4000/img/rides/books-on-bloor/8.jpg" alt="">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h5 class="subheading text-muted">Location</h5>
+                <h4>Title</h4>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  About
                 </p>
               </div>
             </div>

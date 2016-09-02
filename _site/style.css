@@ -671,7 +671,8 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#map {
+section#splash {
+    background-color: #666;
     background-image: url('http://localhost:4000/img/rides/the-green-line/map.png');
     background-position: top;
     background-repeat: no-repeat;
@@ -880,6 +881,11 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #39A939;
+}
+
+.scrolloff {
+    pointer-events: none;
+    border: 2px solid white!important;
 }
 
 
