@@ -4,6 +4,8 @@ email: thereadingline@gmail.com
 description: "The Reading Line is an amazing organization that hosts book rides annually."
 url: http://thereadingline.github.io
 
+google-analytics: UA-79717942-3
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
