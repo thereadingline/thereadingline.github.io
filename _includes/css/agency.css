@@ -892,6 +892,8 @@ body {
     z-index: 9999;
 }
 
-#content img {
-    width: 100%;
+@media(max-width:460px) {
+    #content img {
+        width: 100%;
+    }
 }
