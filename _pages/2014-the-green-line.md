@@ -6,7 +6,7 @@ permalink: /the-green-line/
 date: 2014-10-04
 distance: 5
 description: Toronto's Green Line is a 5 km east-west hydro corridor with the potential to be a continuous park and transportation network for cyclists and pedestrians.
-route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
+route_src: https://www.google.ca/maps/d/u/0/embed?mid=1yjLHheDYe2DFFOYt1woBn-aMJzc
 about:
   - title: Why here?
     img: fa-question
