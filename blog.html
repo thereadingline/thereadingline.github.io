@@ -1,0 +1,26 @@
+---
+layout: blog
+---
+
+<section id="content">
+  <div class="container">
+    {% for post in site.posts %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="row" style="padding:20px;">
+    {% else %}
+    <div class="row bg-light-gray" style="padding:20px;">
+    {% endif %}
+      <div class="col-md-4">
+        <h2 class="section-heading" style="text-align:right;margin-right:30px;">{{ post.title }}</h2>
+        <h3 class="section-subheading" style="text-align:right;margin-right:30px;">{{ post.date | date: "%B %d, %Y" }}</h3>
+      </div>
+      <div class="col-md-8">
+        <p>
+          {{ post.content }}
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
