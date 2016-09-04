@@ -1,5 +1,5 @@
 ---
-title: Janet At Home
+title: Jane At Home
 date: 2016-05-04
 ---
 
