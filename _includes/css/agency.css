@@ -891,3 +891,7 @@ body {
     background-color: #CCC;
     z-index: 9999;
 }
+
+#content img {
+    width: 100%;
+}
