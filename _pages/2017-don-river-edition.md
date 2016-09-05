@@ -7,6 +7,7 @@ date: 2017-09-01
 distance: 5
 description: Everything the front page needs to know about the Don River Edition
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
+ready: false
 about:
   - title: Evergreen Brickworks
     img: fa-tree

@@ -83,10 +83,26 @@
   ]],
   "books-on-bathurst": [[
     {
+      "title": "THE BEST JANE100 EVENTS IN TORONTO",
+      "img": "now.png",
+      "link": "https://nowtoronto.com/news/the-best-jane100-events-in-toronto/"
+    },
+    {
+      "title": "Third annual ‘Books on Bathurst’ bike ride promoting improved cycling infrastructure in Toronto",
+      "img": "inside-toronto.png",
+      "link": "http://www.insidetoronto.com/news-story/6696632-third-annual-books-on-bathurst-bike-ride-promoting-improved-cycling-infrastructure-in-toronto/"
+    },
+    {
+      "title": "Voted 1 of Top 12 events for Toronto Bike Month 2016",
+      "img": "blogTO.png",
+      "link": "http://www.blogto.com/sports_play/2016/05/the_top_12_events_for_toronto_bike_month_in_2016/"
+    },
+    {
       "title": "Janet Joy Wilson on Books on Bathurst",
       "img": "global.jpg",
       "link": "http://globalnews.ca/video/2723335/tms-book-club-16"
     },
+  ],[
     {
       "title": "Bike Spotting Bloor with the women behind Books on Bathurst",
       "img": "dandyhorse.jpg",
@@ -96,22 +112,6 @@
       "title": "Books on Bathurst: The Reading Line 2016",
       "img": "dandyhorse.jpg",
       "link": "http://dandyhorsemagazine.com/blog/2016/05/30/books-on-bathurst-the-reading-line-2016/"
-    },
-    {
-      "title": "THE BEST JANE100 EVENTS IN TORONTO",
-      "img": "now.png",
-      "link": "https://nowtoronto.com/news/the-best-jane100-events-in-toronto/"
-    }
-  ],[
-    {
-      "title": "Voted 1 of Top 12 events for Toronto Bike Month 2016",
-      "img": "blogTO.png",
-      "link": "http://www.blogto.com/sports_play/2016/05/the_top_12_events_for_toronto_bike_month_in_2016/"
-    },
-    {
-      "title": "Third annual ‘Books on Bathurst’ bike ride promoting improved cycling infrastructure in Toronto",
-      "img": "inside-toronto.png",
-      "link": "http://www.insidetoronto.com/news-story/6696632-third-annual-books-on-bathurst-bike-ride-promoting-improved-cycling-infrastructure-in-toronto/"
     }
   ]]
 }
