@@ -3,7 +3,7 @@ layout: page
 title: Don River Edition
 slug: don-river-edition
 permalink: /don-river-edition/
-date: 2017-09-01
+date: 2017-09-30
 distance: 5
 description: Everything the front page needs to know about the Don River Edition
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
