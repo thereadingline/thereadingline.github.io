@@ -7,7 +7,7 @@ date: 2016-05-28
 distance: 10
 description: Everything the front page needs to know about Books on Bathurst
 route_src: https://www.google.com/maps/d/u/0/embed?mid=1q4IwCCzsAh-q6YvHmMVYgEjolqY
-ready: true
+future: false
 about:
   - title: Jane Jacobs & June Callwood
     img: fa-road

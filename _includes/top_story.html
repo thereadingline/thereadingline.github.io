@@ -1,0 +1,23 @@
+{% capture page_type %}{{ page.layout }}{% endcapture %}
+{% capture current_url %}{{ page.url }}{% endcapture %}
+{% if site.data.stories[page_type].show and current_url != site.data.stories[page_type].disabled_page %}
+<section id="top_story">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ site.data.stories[page_type].title }}</h2>
+        <h3 class="section-subheading">{{ site.data.stories[page_type].about }}</h3>
+        <a
+          href="{{ site.data.stories[page_type].action_link }}"
+          class="page-scroll btn btn-xl"
+          {% unless site.data.stories[page_type].action_local %}
+            target="_blank"
+          {% endunless %}
+        >
+          {{ site.data.stories[page_type].action_text }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}

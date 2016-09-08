@@ -5,24 +5,14 @@
 
     <body id="page-top" class="index">
     <div id="loading"></div>
+
     {% include ride_header.html %}
-    {% if page.ready %}
-      {% include ride_about.html %}
-      {{ content }}
-      {% include ride_route.html %}
-      {% include ride_journey.html %}
-      {% include ride_press.html %}
-    {% else %}
-    <section>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Coming soon ...</h2>
-          </div>
-        </div>
-      </div>
-    </section>
-    {% endif %}
+    {% include top_story.html %}
+    {% include ride_about.html %}
+    {{ content }}
+    {% include ride_route.html %}
+    {% include ride_journey.html %}
+    {% include ride_press.html %}
     {% include footer.html %}
     {% include js.html %}
 

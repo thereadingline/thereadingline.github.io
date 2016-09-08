@@ -1,0 +1,26 @@
+default:
+  show: true
+  title: "Vote for The Reading Line"
+  about: "We've been nominated for the NOW Reader's Choice Best Reading Series."
+  action_text: "Vote Now!"
+  action_link: "http://readerschoice.nowtoronto.com/l/NOW-Readers-Choice-2016/Ballot/ArtampBooks"
+  action_local: false
+  disabled_page: ""
+
+page:
+  show: true
+  title: "There's a new Book Ride Coming!"
+  about: "We are in the middle of planning a new book ride! Check out the details below"
+  action_text: "Learn more"
+  action_link: "https://thereadingline.github.io/don-river-edition"
+  action_local: true
+  disabled_page: "/don-river-edition/"
+
+blog:
+  show: true
+  title: "Vote for The Reading Line"
+  about: "We've been nominated for the NOW Reader's Choice Best Reading Series."
+  action_text: "Vote Now!"
+  action_link: "http://readerschoice.nowtoronto.com/l/NOW-Readers-Choice-2016/Ballot/ArtampBooks"
+  action_local: false
+  disabled_page: ""

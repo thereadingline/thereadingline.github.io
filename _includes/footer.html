@@ -5,12 +5,12 @@
         <h4>Quick Links</h4>
         <ul style="list-style-type: none;padding-left:0;">
           <li style="margin-top:10px;"><a href="{{ site.url }}">Home page</a></li>
-          <li style="margin-top:10px;"><a href="{{ site.url }}/blog">Blog</a></li>
           {% for ride in site.pages reversed %}
           {% if ride.title %}
           <li style="margin-top:10px;"><a href="{{ site.url }}/{{ ride.slug }}">{{ ride.title }} - {{ ride.date | date: "%Y" }}</a></li>
           {% endif %}
           {% endfor %}
+          <li style="margin-top:10px;"><a href="{{ site.url }}/blog">Blog</a></li>
         </ul>
       </div>
       <div class="col-md-4">

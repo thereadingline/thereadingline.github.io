@@ -7,7 +7,7 @@ date: 2015-05-30
 distance: 12
 description: Everything the front page needs to know about the Books on Bloor
 route_src: https://www.google.com/maps/d/u/0/embed?mid=1W2VvoWQvZ9ESBu-hs-n1HMlBATw
-ready: true
+future: false
 about:
   - title: Politics
     img: fa-comments-o
