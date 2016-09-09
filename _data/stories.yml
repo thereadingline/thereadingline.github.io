@@ -8,7 +8,7 @@ default:
   disabled_page: ""
 
 page:
-  show: true
+  show: false
   title: "There's a new Book Ride Coming!"
   about: "We are in the middle of planning a new book ride! Check out the details below"
   action_text: "Learn more"
