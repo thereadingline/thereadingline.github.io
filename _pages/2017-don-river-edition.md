@@ -18,9 +18,6 @@ about:
   - title: Corktown Commons
     img: fa-map-signs
     body: "There is a new jewel in the landscape of the West Don Lands, Corktown Common, a 7.3 hectare park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a lush landscape. With a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms, this spectacular new greenspace is at the heart of an emerging new community. But does anyone know it’s here?
-    - title: The Distillery District
-      img: fa-tree
-      body: "Distillery District is an area that was transformed from a derelict Victorian Industrial zone into a thriving commercial hub that honours its historical legacy; as the Toronto Star says, “To enter The Distillery is to step back into an era of horse-drawn carts, windmills and sailing ships.” The Distillery Historic District is widely regarded as Canada’s premier arts, culture and entertainment destination. A place brimming with creativity and creative people, that can inspire dreams and help them come true.
 journey:
   - title: Brick Works
     subheading: in the quarry
