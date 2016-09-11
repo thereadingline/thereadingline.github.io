@@ -5,7 +5,7 @@ slug: books-on-bathurst
 permalink: /books-on-bathurst/
 date: 2016-05-28
 distance: 10
-description: Books on Bathurst was voted one of The Best Jane100 Events in Toronto by NOW MAGAZINE and one of The top 12 events for Toronto Bike Month in 2016 by blogTO.
+description: "Books on Bathurst was voted one of The Best Jane100 Events in Toronto by NOW MAGAZINE and one of The top 12 events for Toronto Bike Month in 2016 by blogTO."
 route_src: https://www.google.com/maps/d/u/0/embed?mid=1q4IwCCzsAh-q6YvHmMVYgEjolqY
 future: false
 about:
@@ -31,12 +31,10 @@ journey:
     subheading: June Callwood Park
     img: 3.jpg
     about: Mike Layton, City Councillor (Ward 19) welcome us to his ward; Jacquelyn Gulati, Manager, Cycling Infrastructure & Programs,Transportation Services at City of Toronto updated us on the 10 year cycling plan for Toronto; S. Bear Bergman, author of Blood, Marriage, Wine and Glitter entertained us with his children's book M is for Moustache; and we discovered that Anne Michaels, Toronto Poet Laureate and author of Fugitive Pieces was a close friend of June Callwood. A perfect ending to the afternoon.
-
   - title: Book Shop
     subheading: Spacing Store
     img: 4.jpg
     about: Matt from Spacing Store
-    
   - title: Title
     subheading: Location
     img: 5.jpg
