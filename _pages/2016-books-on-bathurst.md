@@ -21,7 +21,7 @@ about:
 journey:
   - title: A great place to start
     subheading: Fort York Public Library
-    img: 1.jpg
+    img: 22-division-group.jpg
     about: Ted Belke, Branch Head of Fort York Library provided history & architectural background; Joe Cressy, City Councillor (Ward 20) spoke of the increasing density in this small area; Grace O’Connell, author of Magnified World entertained with her chapter on cycling & Tanis Rideout, author of Above All Things & Poet Laureate Lake Ontario 2006, read a poem from her Arguments with the Lake published by Wolsak & Wynn Publishers.
   - title: A natural oasis
     subheading: Tollkeeper’s Cottage Museum
