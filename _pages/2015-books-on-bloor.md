@@ -22,8 +22,8 @@ journey:
   - title: Six Points
     subheading: 22 Division Police Station
     img: 1.jpg
-    about: Why do we need urban planning?
-    Our politicians & authors shared their thoughts: Bernard Trottier, MP Etobicoke/Lakeshore; Peter Z. Milczyn, MPP Etobicoke/Lakeshore; Pamela Gough, TDSB Trustee, W3 Etobicoke/Lakeshore; Peggy Nash, MP Parkdale/High Park; Cheri di Novo, Parkdale/High Park; Doug Saunders, Arrival City; Ken Greenberg, Walking Home; Jared Kolb, Executive Director Cycle Toronto
+    about: "Why do we need urban planning?
+    Our politicians & authors shared their thoughts: Bernard Trottier, MP Etobicoke/Lakeshore; Peter Z. Milczyn, MPP Etobicoke/Lakeshore; Pamela Gough, TDSB Trustee, W3 Etobicoke/Lakeshore; Peggy Nash, MP Parkdale/High Park; Cheri di Novo, Parkdale/High Park; Doug Saunders, Arrival City; Ken Greenberg, Walking Home; Jared Kolb, Executive Director Cycle Toronto"
   - title: Title
     subheading: Location
     img: 2.jpg
