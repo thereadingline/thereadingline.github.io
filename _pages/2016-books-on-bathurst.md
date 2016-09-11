@@ -21,18 +21,18 @@ about:
 journey:
   - title: A great place to start
     subheading: Fort York Public Library
-    img: 1.jpg
+    img: fortyorklibrary.jpg
     about: "Ted Belke, Branch Head of Fort York Library provided history & architectural background; Joe Cressy, City Councillor (Ward 20) spoke of the increasing density in this small area; Grace O’Connell, author of Magnified World entertained with her chapter on cycling & Tanis Rideout, author of Above All Things & Poet Laureate Lake Ontario 2006, read a poem from her Arguments with the Lake published by Wolsak & Wynn Publishers."
   - title: A natural oasis
     subheading: Tollkeeper’s Cottage Museum
-    img: 2.jpg
+    img: tollkeepers.jpg
     about: "Joe Mihevc, City Councillor (Ward 21) welcomed us to this neighbourhood; the Manager of the Tollkeeper’s Cottage shared some history & staff provided lemonade & cookies as it was a very hot day; Denise Pinto, executive director of Jane’s Walk spoke about Jane Jacob's legacy & John Lorinc (editor) & Fatima Syed (contributor), Subdivided: City-Building in an Age of HyperDiversity discussed the diversity of Toronto."
   - title: An urban forest
     subheading: June Callwood Park
-    img: 3.jpg
+    img: junecallwoodpark.jpg
     about: "Mike Layton, City Councillor (Ward 19) welcome us to his ward; Jacquelyn Gulati, Manager, Cycling Infrastructure & Programs,Transportation Services at City of Toronto updated us on the 10 year cycling plan for Toronto; S. Bear Bergman, author of Blood, Marriage, Wine and Glitter entertained us with his children's book M is for Moustache; and we discovered that Anne Michaels, Toronto Poet Laureate and author of Fugitive Pieces was a close friend of June Callwood. A perfect ending to the afternoon."
   - title: Book Shop
     subheading: Spacing Store
-    img: 4.jpg
+    img: spacing.jpg
     about: Matt from Spacing Store
 ---
