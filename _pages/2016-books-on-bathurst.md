@@ -35,20 +35,4 @@ journey:
     subheading: Spacing Store
     img: 4.jpg
     about: Matt from Spacing Store
-  - title: Title
-    subheading: Location
-    img: 5.jpg
-    about: About
-  - title: Title
-    subheading: Location
-    img: 6.jpg
-    about: About
-  - title: Title
-    subheading: Location
-    img: 7.jpg
-    about: About
-  - title: Title
-    subheading: Location
-    img: 8.jpg
-    about: About
 ---
