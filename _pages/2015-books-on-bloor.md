@@ -19,7 +19,7 @@ about:
     img: fa-shopping-bag
     body: We <strong>saw</strong> the city from two wheels and <strong>heard</strong> the city from local authors as we travelled east together with a total of 8 stop & read locations along Bloor. We supported local businesses by highlighting bookstores and retailers along the route.
 journey:
-  - title: Title
+  - title: First Title
     subheading: Location
     img: 1.jpg
     about: About
