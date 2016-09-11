@@ -34,5 +34,5 @@ journey:
   - title: Book Shop
     subheading: Spacing Store
     img: spacing.jpg
-    about: Matt from Spacing Store
+    about: Matt from Spacing Store provided our pop-up book shop on wheels.
 ---
