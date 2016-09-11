@@ -5,7 +5,7 @@ slug: books-on-bloor
 permalink: /books-on-bloor/
 date: 2015-05-30
 distance: 12
-description: Everything the front page needs to know about the Books on Bloor
+description: We saw the city from two wheels and heard the city from local authors as we travelled east together with a total of 8 stop & read locations along Bloor Street.
 route_src: https://www.google.com/maps/d/u/0/embed?mid=1W2VvoWQvZ9ESBu-hs-n1HMlBATw
 future: false
 about:
@@ -19,10 +19,11 @@ about:
     img: fa-shopping-bag
     body: We <strong>saw</strong> the city from two wheels and <strong>heard</strong> the city from local authors as we travelled east together with a total of 8 stop & read locations along Bloor. We supported local businesses by highlighting bookstores and retailers along the route.
 journey:
-  - title: First Title
-    subheading: Location
+  - title: Six Points
+    subheading: 22 Division Police Station
     img: 1.jpg
-    about: About
+    about: Why do we need urban planning?
+    Our politicians & authors shared their thoughts: Bernard Trottier, MP Etobicoke/Lakeshore; Peter Z. Milczyn, MPP Etobicoke/Lakeshore; Pamela Gough, TDSB Trustee, W3 Etobicoke/Lakeshore; Peggy Nash, MP Parkdale/High Park; Cheri di Novo, Parkdale/High Park; Doug Saunders, Arrival City; Ken Greenberg, Walking Home; Jared Kolb, Executive Director Cycle Toronto
   - title: Title
     subheading: Location
     img: 2.jpg
