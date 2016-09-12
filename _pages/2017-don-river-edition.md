@@ -17,7 +17,7 @@ about:
     body: As we leisurely cycle beside the river we will stop at key locations for historical perspective.
   - title: Corktown Commons
     img: fa-map-signs
-    body: "There is a new jewel in the landscape of the West Don Lands, Corktown Common, a 7.3 hectare park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a lush landscape. With a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms, this spectacular new greenspace is at the heart of an emerging new community. But does anyone know it’s here?
+    body: "There is a new jewel in the landscape of the West Don Lands, Corktown Common, a 7.3 hectare park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a lush landscape. With a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms, this spectacular new greenspace is at the heart of an emerging new community. But does anyone know it’s here?"
 journey:
   - title: Brick Works
     subheading: in the quarry
