@@ -190,9 +190,18 @@ fieldset[disabled] .btn-xl.active {
     padding-left: 5%;
 }
 
-#logo {
+#logo img {
     height: inherit;
-    -webkit-filter: invert(100%) contrast(5);
+}
+
+#logo img:last-child {
+  display: none;
+}
+#logo:hover img:last-child {
+  display: block;
+}
+#logo:hover img:first-child {
+  display: none;
 }
 
 @media(max-width:992px) {
@@ -928,4 +937,11 @@ body {
 
 img {
     max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    .navbar-nav > li > a {
+        padding-top: 24.5px;
+        padding-bottom: 24.5px; 
+    }
 }
