@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body id="page-top" class="index">
+    <div id="loading"></div>
+
+    {% include navigation.html %}
+    {% include header.html %}
+    {% include top_story.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include js.html %}
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a id="logo" class="navbar-brand page-scroll" href="{% if page.layout == "default" %}#page-top{% else %}{{ site.url }}{% endif %}">
+        <img src="{{ site.url }}/img/ReadingLineWhite.png" />
+        <img src="{{ site.url }}/img/ReadingLineGreen.png" />
+      </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden"><a href="#page-top"></a></li>
+        {% if page.layout == "default" %}
+        <li><a class="page-scroll" href="#about">About</a></li>
+        <li><a class="page-scroll" href="#rides_list">Book Rides</a></li>
+        <li><a class="page-scroll" href="#testimonials">Testimonials</a></li>
+        <li><a class="page-scroll" href="#team">Team</a></li>
+        {% elsif page.layout == "page" %}
+        <li><a class="page-scroll" href="#about">About</a></li>
+        <li><a class="page-scroll" href="#route">Route</a></li>
+        <li><a class="page-scroll" href="#highlights">Highlights</a></li>
+        <li><a class="page-scroll" href="#press">Press</a></li>
+        {% else %}
+        <li><a class="page-scroll" href="#content">Words</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</nav>

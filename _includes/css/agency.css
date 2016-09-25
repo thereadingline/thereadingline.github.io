@@ -388,19 +388,19 @@ section h3.section-subheading {
     letter-spacing: 1px;
 }
 
-#portfolio .portfolio-item {
+#rides_list .rides_list-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#rides_list .rides_list-item .rides_list-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#rides_list .rides_list-item .rides_list-link .rides_list-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -411,11 +411,11 @@ section h3.section-subheading {
     background: rgba(57,169,57,.9);
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+#rides_list .rides_list-item .rides_list-link .rides_list-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -426,16 +426,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content h3,
+#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#rides_list .rides_list-item .rides_list-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -444,25 +444,25 @@ section h3.section-subheading {
     letter-spacing: 1px;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#rides_list .rides_list-item .rides_list-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+#rides_list .rides_list-item .rides_list-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
 
-#portfolio * {
+#rides_list * {
     z-index: 2;
     letter-spacing: 2px;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #rides_list .rides_list-item {
         margin: 0 0 30px;
     }
 }
@@ -813,77 +813,6 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
-    padding: 100px 0;
-    min-height: 100%;
-    border: 0;
-    border-radius: 0;
-    text-align: center;
-    background-clip: border-box;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-}
-
-.portfolio-modal .modal-content h2 {
-    margin-bottom: 15px;
-    font-size: 3em;
-}
-
-.portfolio-modal .modal-content p {
-    margin-bottom: 30px;
-}
-
-.portfolio-modal .modal-content p.item-intro {
-    margin: 20px 0 30px;
-    font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
-    font-style: italic;
-}
-
-.portfolio-modal .modal-content ul.list-inline {
-    margin-top: 0;
-    margin-bottom: 30px;
-}
-
-.portfolio-modal .modal-content img {
-    margin-bottom: 30px;
-}
-
-.portfolio-modal .close-modal {
-    position: absolute;
-    top: 25px;
-    right: 25px;
-    width: 75px;
-    height: 75px;
-    background-color: transparent;
-    cursor: pointer;
-}
-
-.portfolio-modal .close-modal:hover {
-    opacity: .3;
-}
-
-.portfolio-modal .close-modal .lr {
-    z-index: 1051;
-    width: 1px;
-    height: 75px;
-    margin-left: 35px;
-    background-color: #222;
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-
-.portfolio-modal .close-modal .lr .rl {
-    z-index: 1052;
-    width: 1px;
-    height: 75px;
-    background-color: #222;
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
-
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
@@ -942,6 +871,6 @@ img {
 @media (min-width: 768px) {
     .navbar-nav > li > a {
         padding-top: 24.5px;
-        padding-bottom: 24.5px; 
+        padding-bottom: 24.5px;
     }
 }

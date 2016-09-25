@@ -1,20 +1,11 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
 
-  {% include head.html %}
+{% include rides/about.html %}
 
-    <body id="page-top" class="index">
-    <div id="loading"></div>
+{{ content }}
 
-    {% include ride_header.html %}
-    {% include top_story.html %}
-    {% include ride_about.html %}
-    {{ content }}
-    {% include ride_route.html %}
-    {% include ride_journey.html %}
-    {% include ride_press.html %}
-    {% include footer.html %}
-    {% include js.html %}
-
-    </body>
-</html>
+{% include rides/route.html %}
+{% include rides/highlights.html %}
+{% include rides/press.html %}

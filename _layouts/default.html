@@ -1,24 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
 
-  {% include head.html %}
-
-    <body id="page-top" class="index">
-    <div id="loading"></div>
-
-    {% include header.html %}
-    {% include top_story.html %}
-    {% include services.html %}
-    {% include portfolio_grid.html %}
-    {% include about.html %}
-    {% include team.html %}
-    {% include clients.html %}
-    {% include footer.html %}
-    {% include js.html %}
-
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-
-    </body>
-</html>
+{% include landing/about.html %}
+{% include landing/rides_list.html %}
+{% include landing/testimonials.html %}
+{% include landing/team.html %}
+{% include landing/friends.html %}
