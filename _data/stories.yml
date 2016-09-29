@@ -1,5 +1,5 @@
 default:
-  show: true
+  show: false
   title: "Vote for The Reading Line"
   about: "We've been nominated for the NOW Reader's Choice Best Reading Series."
   action_text: "Vote Now!"
@@ -17,7 +17,7 @@ page:
   disabled_page: "/don-river-edition/"
 
 blog:
-  show: true
+  show: false
   title: "Vote for The Reading Line"
   about: "We've been nominated for the NOW Reader's Choice Best Reading Series."
   action_text: "Vote Now!"
