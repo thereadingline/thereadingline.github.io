@@ -27,7 +27,7 @@
     <meta property="og:title" content="{{ site.title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:image" content="{{ site.url }}/img/books_bicycle.jpg" />
+    <meta property="og:image" content="{{ site.url }}/img/{% if page.layout == 'page' %}rides/{{ page.slug }}/thumbnail.jpg{% else %}books_bicycle.jpg{% endif %}" />
     <meta property="og:description" content="{{ site.description }}">
 
     <meta name="twitter:card" content="summary_large_image">
