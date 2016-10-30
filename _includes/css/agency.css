@@ -388,19 +388,19 @@ section h3.section-subheading {
     letter-spacing: 1px;
 }
 
-#rides_list .rides_list-item {
+.rides_list-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#rides_list .rides_list-item .rides_list-link {
+.rides_list-item .rides_list-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#rides_list .rides_list-item .rides_list-link .rides_list-hover {
+ .rides_list-item .rides_list-link .rides_list-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -411,11 +411,11 @@ section h3.section-subheading {
     background: rgba(57,169,57,.9);
 }
 
-#rides_list .rides_list-item .rides_list-link .rides_list-hover:hover {
+ .rides_list-item .rides_list-link .rides_list-hover:hover {
     opacity: 1;
 }
 
-#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content {
+ .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -426,16 +426,16 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content i {
+ .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content i {
     margin-top: -12px;
 }
 
-#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content h3,
-#rides_list .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content h4 {
+ .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content h3,
+ .rides_list-item .rides_list-link .rides_list-hover .rides_list-hover-content h4 {
     margin: 0;
 }
 
-#rides_list .rides_list-item .rides_list-caption {
+ .rides_list-item .rides_list-caption {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -444,12 +444,12 @@ section h3.section-subheading {
     letter-spacing: 1px;
 }
 
-#rides_list .rides_list-item .rides_list-caption h4 {
+.rides_list-item .rides_list-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#rides_list .rides_list-item .rides_list-caption p {
+.rides_list-item .rides_list-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
@@ -462,7 +462,7 @@ section h3.section-subheading {
 }
 
 @media(min-width:767px) {
-    #rides_list .rides_list-item {
+    .rides_list-item {
         margin: 0 0 30px;
     }
 }
