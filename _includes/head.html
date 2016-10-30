@@ -24,6 +24,18 @@
     <meta name="msapplication-TileImage" content="{{ site.url }}/img/favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+    <meta property="og:description" content="{{ site.description }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@thereadingline" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.url }}/img/{% if page.layout == 'page' %}rides/{{ page.slug }}/thumbnail.jpg{% else %}books_bicycle.jpg{% endif %}" />
+
     <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
 
     <link rel="stylesheet" href="{{ "/css/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
