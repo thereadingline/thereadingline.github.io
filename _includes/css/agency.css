@@ -206,7 +206,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media(max-width:992px) {
     #logo {
-        height: 100%;
+        height: 37px;
         margin-top: 7px;
     }
 }
@@ -678,6 +678,7 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    max-width: 300px;
 }
 
 .team-member h4 {
