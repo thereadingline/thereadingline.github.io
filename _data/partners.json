@@ -1,6 +1,10 @@
 {
   "rows": [[
     {
+      "name": "toronto-arts-council.jpg",
+      "link": "http://www.torontoartscouncil.org/home"
+    },
+    {
       "name": "anvil-press.jpg",
       "link": "http://www.anvilpress.com/"
     },

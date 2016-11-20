@@ -10,13 +10,13 @@
   img: claireshead.jpg
   ride: the-green-line
 
-- title: Full Frontal TO
+- title: Full Frontal T.O.
   author: Shawn Micallef
   isbn: 9781552452578
   img: fullfrontal.jpg
   ride: the-green-line
 
-- title: All Things Broken
+- title: All the Broken Things
   author: Kathryn Kuitenbrouwer
   isbn: 9780345813527
   img: allthingsbroken.jpg
@@ -52,7 +52,7 @@
   img: arrivalcity.jpg
   ride: books-on-bloor
 
-- title: Urban Cycling Guide
+- title: The Urban Cycling Survival Guide
   author: Yvonne Bambrick
   isbn: 9781770412187
   img: urbancyclingguide.jpg
@@ -89,7 +89,7 @@
   ride: books-on-bloor
 
 - title: Sweet Jesus
-  author: Christine Poutney
+  author: Christine Pountney
   isbn: 9780771071225
   img: sweetjesus.jpg
   ride: books-on-bloor
@@ -136,7 +136,7 @@
   img: fugitivepieces.jpg
   ride: books-on-bathurst
 
-- title: "Subdivided: City Building in an age of Hyper-diversity"
+- title: "Subdivided: City Building in an Age of Hyper-Diversity"
   author: John Lorine & Jay Pitter
   isbn: 9781552453322
   img: subdivided.jpg
@@ -148,7 +148,7 @@
   img: favicon.png
   ride: books-on-bathurst
 
-- title: M is for Mustache
+- title: M Is for Mustache
   author: Catherine Hernandez and Marisa Firebaugh
   isbn: 9780987976345
   img: mustache.png
