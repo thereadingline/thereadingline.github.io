@@ -3,7 +3,7 @@ layout: page
 title: Don River Edition
 slug: don-river-edition
 permalink: /don-river-edition/
-date: 2017-09-30
+date: 2017-08-26
 distance: 5
 description: "Our book ride in the Don Valley will focus on mental health, nature and exercise through the lens of literature. Cycling, like reading, exercises the mind and can elevate one’s mood and decrease stress and depression."
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
