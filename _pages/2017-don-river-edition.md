@@ -4,9 +4,9 @@ title: Don River Edition
 slug: don-river-edition
 permalink: /don-river-edition/
 date: 2017-08-26
-distance: 5
+distance: 8
 description: "Our book ride in the Don Valley will focus on mental health, nature and exercise through the lens of literature. Cycling, like reading, exercises the mind and can elevate one’s mood and decrease stress and depression."
-route_src: https://www.google.ca/maps/d/u/0/embed?mid=1NcZvmx-H0LparsR-5NoI8SV-Wic
+route_src: https://www.google.ca/maps/d/u/0/embed?mid=1onvS6oh4BYR6qELmWKliWZ3ooDg
 future: true
 about:
   - title: Evergreen Brickworks
@@ -19,6 +19,10 @@ about:
     img: fa-map-signs
     body: There is a new jewel in the landscape of the West Don Lands, Corktown Common, a 7.3 hectare park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a lush landscape. With a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms, this spectacular new greenspace is at the heart of an emerging new community. But does anyone know it’s here?
 journey:
+  - title: Children's Peace Theatre
+    subheading: Massey Creek
+    img: 4.jpg
+    about: Information to come ....
   - title: Brick Works
     subheading: in the quarry
     img: 1.jpg
