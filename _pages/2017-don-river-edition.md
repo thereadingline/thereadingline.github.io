@@ -17,18 +17,18 @@ about:
     body: The trail along the river beckons our Book Ride!
   - title: Corktown Commons
     img: fa-map-signs
-    body: There is a new jewel in the landscape of the West Don Lands, Corktown Common, a 7.3 hectare park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a lush landscape. With a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms, this spectacular new greenspace is at the heart of an emerging new community. But does anyone know it’s here?
+    body: There is a new jewel in the landscape of the West Don Lands, Corktown Common, a 7.3 hectare park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a lush landscape. With a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms, this spectacular new greenspace is at the heart of an emerging new community.
 journey:
   - title: Children's Peace Theatre
     subheading: Massey Creek
     img: 4.jpg
-    about: Information to come ....
+    about: We will honour the land and its ancestors with readings in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.
   - title: Brick Works
-    subheading: in the quarry
+    subheading: Don River Valley
     img: 1.jpg
-    about: Far from the madding crowd within the quarry, we will meet a variety of authors with details to come.
+    about: Within the former quarry and industrial site, we will see and hear about history of the area through the lens of literature.
   - title: Corktown Common
-    subheading: Urban prairies
+    subheading: Urban Prairie
     img: 2.jpg
-    about: Authors writing about the area will discuss their inspiration.
+    about: Authors writing about this reclaimed green space will discuss their inspiration.
 ---
