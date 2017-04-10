@@ -10,7 +10,7 @@ route_src: https://www.google.ca/maps/d/u/0/embed?mid=1onvS6oh4BYR6qELmWKliWZ3oo
 future: true
 about:
   - title: Children's Peace Theatre
-    img: fa-bicycle
+    img: fa-pagelines
     body: 'We are honoured to commence our Book Ride on the sacred land of the original people.  Tkaronto, "where the trees stand in water", is a part of the traditional territory of many nations: the Anishinaabe, the Haudenosaunee, the Wendat, and the Mississaugas of the New Credit. This land is subject to the Dish with One Spoon wampum belt covenant, an agreement between the Haudenosaunee Confederacy and a confederacy of Anishinabek and allied nations to peaceably share and care for the resources around the Great Lakes.'
   - title: Evergreen Brick Works
     img: fa-tree
