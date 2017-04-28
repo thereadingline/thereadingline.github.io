@@ -1,1 +1,3 @@
-$(window).ready(function() { $('#loading').fadeOut(1000) })
+$(window).ready(function() {
+  setTimeout(function(){ $('#loading').fadeOut(500) }, 300)
+})
