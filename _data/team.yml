@@ -49,11 +49,11 @@ people:
   pic: ryan
   position: Marketing Manager
   social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ryancollinsswartz/
     - title: twitter
       url: https://twitter.com/ryancswartz
     - title: instagram
       url: https://www.instagram.com/libraryofus/
     - title: envelope-o
       url: mailto:rcollins.swartz@gmail.com
-    - title: linkedin
-      url: https://www.linkedin.com/in/ryancollinsswartz/
