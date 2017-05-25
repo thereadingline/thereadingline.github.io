@@ -132,22 +132,22 @@ books-on-bathurst:
     img: mustache.png
 
 don-river-edition:
-  - title: An Enduring Wilderness
-    author: Robert Burley
-    isbn: 9781770413795
-    img: an_enduring_wilderness.jpg
+  # - title: An Enduring Wilderness
+  #   author: Robert Burley
+  #   isbn: 9781770413795
+  #   img: an_enduring_wilderness.jpg
 
-  - title: Fauna
-    author: Alissa York
-    isbn: 9780307357908
-    img: fauna.jpg
+  # - title: Fauna
+  #   author: Alissa York
+  #   isbn: 9780307357908
+  #   img: fauna.jpg
 
-  - title: 'Any Other Way: How Toronto Got Queer'
-    author: John Lorinc, Jane Farrow
-    isbn: 9781552453483
-    img: anyotherway.jpg
+  # - title: 'Any Other Way: How Toronto Got Queer'
+  #   author: John Lorinc, Jane Farrow
+  #   isbn: 9781552453483
+  #   img: anyotherway.jpg
 
-  - title: The Best Place On Earth
-    author: Ayelet Tsabari
-    isbn: 9781443411967
-    img: bestplaceearth.jpg
+  # - title: The Best Place On Earth
+  #   author: Ayelet Tsabari
+  #   isbn: 9781443411967
+  #   img: bestplaceearth.jpg
