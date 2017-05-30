@@ -74,8 +74,8 @@
     ],
     [
       {
-        "name": "type-books.jpg",
-        "link": "http://www.typebooks.ca/"
+        "name": "harper_collins.jpg",
+        "link": "http://www.harpercollins.ca/"
       },
       {
         "name": "vert.jpg",
@@ -89,6 +89,12 @@
         "name": "charlies_freewheel.png",
         "link": "http://www.charliesfreewheels.ca/"
       }
+    ],
+    [
+       {
+        "name": "type-books.jpg",
+        "link": "http://www.typebooks.ca/"
+      },
     ]
   ]
 }
