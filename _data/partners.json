@@ -5,6 +5,26 @@
       "link": "http://www.torontoartscouncil.org/home"
     },
     {
+      "name": "thegreattrail.png",
+      "link": "https://thegreattrail.ca/celebrations/"
+    },  
+    {
+      "name": "evergreen.png",
+      "link": "https://www.evergreen.ca/"
+    },
+    {
+      "name": "AccessAlliance.jpeg",
+      "link": "http://accessalliance.ca/"
+    },
+    {
+      "name": "childrenspeacetheatre.png",
+      "link": "http://www.childrenspeacetheatre.org/"
+    },
+    {
+      "name": "ecw-press.jpg",
+      "link": "http://ecwpress.com/"
+    },
+    {
       "name": "anvil-press.jpg",
       "link": "http://www.anvilpress.com/"
     },
@@ -33,10 +53,7 @@
       "name": "dandyhorse.jpg",
       "link": "http://dandyhorsemagazine.com/"
     },
-    {
-      "name": "ecw-press.jpg",
-      "link": "http://ecwpress.com/"
-    }
+
   ],[
     {
       "name": "featherstone-delivery.jpg",
