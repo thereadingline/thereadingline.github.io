@@ -1,101 +1,118 @@
 {
-  "rows": [[
-    {
-      "name": "toronto-arts-council.jpg",
-      "link": "http://www.torontoartscouncil.org/home"
-    },
-    {
-      "name": "thegreattrail.png",
-      "link": "https://thegreattrail.ca/celebrations/"
-    },  
-    {
-      "name": "evergreen.png",
-      "link": "https://www.evergreen.ca/"
-    },
-    {
-      "name": "AccessAlliance.jpeg",
-      "link": "http://accessalliance.ca/"
-    },
-    {
-      "name": "childrenspeacetheatre.png",
-      "link": "http://www.childrenspeacetheatre.org/"
-    },
-    {
-      "name": "ecw-press.jpg",
-      "link": "http://ecwpress.com/"
-    },
-    {
-      "name": "anvil-press.jpg",
-      "link": "http://www.anvilpress.com/"
-    },
-    {
-      "name": "arsenal-press.png",
-      "link": "http://www.arsenalpulp.com/home.php"
-    },
-    {
-      "name": "book-city.jpg",
-      "link": "http://www.bookcity.ca/"
-    },
-    {
-      "name": "buckrider-books.jpg",
-      "link": "http://wolsakandwynn.ca/about/about-buckrider-books"
-    }
-  ],[
-    {
-      "name": "coachhousebooks.jpg",
-      "link": "http://chbooks.com/"
-    },
-    {
-      "name": "cycle-toronto.png",
-      "link": "https://www.cycleto.ca/"
-    },
-    {
-      "name": "dandyhorse.jpg",
-      "link": "http://dandyhorsemagazine.com/"
-    },
-
-  ],[
-    {
-      "name": "featherstone-delivery.jpg",
-      "link": "http://www.featherstonedelivery.com/"
-    },
-    {
-      "name": "goose-lane.jpg",
-      "link": "https://www.gooselane.com/"
-    },
-    {
-      "name": "mansfieldpress.jpg",
-      "link": "http://mansfieldpress.net/"
-    },
-    {
-      "name": "park-people.jpg",
-      "link": "https://parkpeople.ca/"
-    }
-  ],[
-    {
-      "name": "penguin-random-house-canada.jpg",
-      "link": "http://penguinrandomhouse.ca/"
-    },
-    {
-      "name": "sweet-flour.jpg",
-      "link": "http://www.sweetflour.ca/"
-    },
-    {
-      "name": "toronto-public-library.jpg",
-      "link": "http://www.torontopubliclibrary.ca/"
-    },
-    {
-      "name": "tundra-books.jpg",
-      "link": "http://www.tundrabooks.com/index.html"
-    }
-  ],[
-    {
-      "name": "type-books.jpg",
-      "link": "http://www.typebooks.ca/"
-    },
-    {
-      "name": "vert.jpg",
-      "link": "http://www.vertcatering.com/"
-    }
-  ]]
+  "rows": [
+    [
+      {
+        "name": "thegreattrail.png",
+        "link": "https://thegreattrail.ca/celebrations/"
+      },
+      {
+        "name": "evergreen.png",
+        "link": "https://www.evergreen.ca/"
+      },
+      {
+        "name": "AccessAlliance.jpeg",
+        "link": "http://accessalliance.ca/"
+      },
+      {
+        "name": "childrenspeacetheatre.png",
+        "link": "http://www.childrenspeacetheatre.org/"
+      },
+    ],
+    [
+      {
+        "name": "anvil-press.jpg",
+        "link": "http://www.anvilpress.com/"
+      },
+      {
+        "name": "arsenal-press.png",
+        "link": "http://www.arsenalpulp.com/home.php"
+      },
+      {
+        "name": "book-city.jpg",
+        "link": "http://www.bookcity.ca/"
+      },
+      {
+        "name": "buckrider-books.jpg",
+        "link": "http://wolsakandwynn.ca/about/about-buckrider-books"
+      }
+    ],
+    [
+      {
+        "name": "coachhousebooks.jpg",
+        "link": "http://chbooks.com/"
+      },
+      {
+        "name": "cycle-toronto.png",
+        "link": "https://www.cycleto.ca/"
+      },
+      {
+        "name": "dandyhorse.jpg",
+        "link": "http://dandyhorsemagazine.com/"
+      },
+      {
+        "name": "ecw-press.jpg",
+        "link": "http://ecwpress.com/"
+      }
+    ],
+    [
+      {
+        "name": "featherstone-delivery.jpg",
+        "link": "http://www.featherstonedelivery.com/"
+      },
+      {
+        "name": "goose-lane.jpg",
+        "link": "https://www.gooselane.com/"
+      },
+      {
+        "name": "mansfieldpress.jpg",
+        "link": "http://mansfieldpress.net/"
+      },
+      {
+        "name": "park-people.jpg",
+        "link": "https://parkpeople.ca/"
+      }
+    ],
+    [
+      {
+        "name": "penguin-random-house-canada.jpg",
+        "link": "http://penguinrandomhouse.ca/"
+      },
+      {
+        "name": "sweet-flour.jpg",
+        "link": "http://www.sweetflour.ca/"
+      },
+      {
+        "name": "toronto-public-library.jpg",
+        "link": "http://www.torontopubliclibrary.ca/"
+      },
+      {
+        "name": "tundra-books.jpg",
+        "link": "http://www.tundrabooks.com/index.html"
+      }
+    ],
+    [
+      {
+        "name": "harper_collins.jpg",
+        "link": "http://www.harpercollins.ca/"
+      },
+      {
+        "name": "vert.jpg",
+        "link": "http://www.vertcatering.com/"
+      },
+      {
+        "name": "toronto-arts-council.jpg",
+        "link": "http://www.torontoartscouncil.org/home"
+      },
+      {
+        "name": "charlies_freewheel.png",
+        "link": "http://www.charliesfreewheels.ca/"
+      }
+    ],
+    [
+       {
+        "name": "type-books.jpg",
+        "link": "http://www.typebooks.ca/"
+      },
+    ]
+  ]
 }
