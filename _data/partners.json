@@ -2,6 +2,10 @@
   "rows": [
     [
       {
+        "name": "toronto-arts-council.jpg",
+        "link": "http://www.torontoartscouncil.org/home"
+      },
+      {
         "name": "thegreattrail.png",
         "link": "https://thegreattrail.ca/celebrations/"
       },
@@ -13,15 +17,11 @@
         "name": "AccessAlliance.jpeg",
         "link": "http://accessalliance.ca/"
       },
-      {
-        "name": "childrenspeacetheatre.png",
-        "link": "http://www.childrenspeacetheatre.org/"
-      },
     ],
     [
       {
-        "name": "anvil-press.jpg",
-        "link": "http://www.anvilpress.com/"
+        "name": "childrenspeacetheatre.png",
+        "link": "http://www.childrenspeacetheatre.org/"
       },
       {
         "name": "arsenal-press.png",
@@ -100,8 +100,8 @@
         "link": "http://www.vertcatering.com/"
       },
       {
-        "name": "toronto-arts-council.jpg",
-        "link": "http://www.torontoartscouncil.org/home"
+        "name": "anvil-press.jpg",
+        "link": "http://www.anvilpress.com/"
       },
       {
         "name": "charlies_freewheel.png",
