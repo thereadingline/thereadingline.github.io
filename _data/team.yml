@@ -11,7 +11,6 @@ people:
       url: https://www.instagram.com/jsquaredink/
     - title: home
       url: http://janetjoywilson.ca
-
 - name: Amanda Lewis
   pic: amanda-lewis
   position: Co-Founder & Programming Director
@@ -22,7 +21,6 @@ people:
       url: https://www.instagram.com/theamandalewis/
     - title: home
       url: https://theamandalewis.com/
-
 - name: Robertson McClure
   pic: robertson-mcclure
   position: Developer
@@ -33,18 +31,6 @@ people:
       url: https://www.instagram.com/robertsonmcclure/
     - title: home
       url: http://robertsonmcclure.ca/
-
-- name: Jumol Royes
-  pic: jumol
-  position: Publicist
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/jumolroyes/
-    - title: twitter
-      url: https://twitter.com/Jumol
-    - title: envelope-o
-      url: mailto:jumol.royes@yahoo.ca
-
 - name: Ryan Collins-Swartz
   pic: ryan
   position: Marketing Manager
