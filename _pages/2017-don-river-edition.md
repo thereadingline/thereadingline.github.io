@@ -30,5 +30,5 @@ journey:
   - title: Corktown Common
     subheading: Urban Prairie
     img: 2.jpg
-    about: Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant".  Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of quer shared houses, the demimonde world of Yonge Sgreet strip and the emergence of Queer West.  Ingrigued? You should be ... Come for the words!
+    about: Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant".  Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of queer shared houses, the demimonde world of Yonge Sgreet strip and the emergence of Queer West.  Intrigued? You should be ... Come for the words!
 ---
