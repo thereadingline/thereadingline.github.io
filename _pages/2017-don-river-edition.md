@@ -26,9 +26,9 @@ journey:
   - title: Brick Works
     subheading: Don River Valley
     img: 1.jpg
-    about: Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impace of nature on mental health.
+    about: Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health.
   - title: Corktown Common
     subheading: Urban Prairie
     img: 2.jpg
-    about: Authors including Ayelet Tsabari and Jane Farrow will share their thoughts and writing about this reclaimed green space..
+    about: Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant".  Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of quer shared houses, the demimonde world of Yonge Sgreet strip and the emergence of Queer West.  Ingrigued? You should be ... Come for the words!
 ---
