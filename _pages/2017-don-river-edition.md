@@ -22,7 +22,7 @@ journey:
   - title: Children's Peace Theatre
     subheading: Massey Creek
     img: 4.jpg
-    about: We will honour the land and its ancestors with readings by local author Catherine Hernandez and storyteller Adwoa Badoe in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.    
+    about: We will honour the land and its ancestors with readings by local author Catherine Hernandez who has written her debut novel, Scarborough, in a multi-voiced story about a Toronto neighbourhood that refuses to fall apart in the face of poverty and crime along with Ghana storyteller, Adwoa Badoe, author of more than a dozen children's books. Together they will share their stories for families of all ages in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.    
   - title: Brick Works
     subheading: Don River Valley
     img: 1.jpg
