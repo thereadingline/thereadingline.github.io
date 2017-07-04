@@ -22,13 +22,13 @@ journey:
   - title: Children's Peace Theatre
     subheading: Massey Creek
     img: 4.jpg
-    about: We will honour the land and its ancestors with readings in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.
+    about: We will honour the land and its ancestors with readings by local author Catherine Hernandez and storyteller Adwoa Badoe in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.    
   - title: Brick Works
     subheading: Don River Valley
     img: 1.jpg
-    about: Within the former quarry and industrial site, we will see and hear about history of the area through the lens of literature.
+    about: Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impace of nature on mental health.
   - title: Corktown Common
     subheading: Urban Prairie
     img: 2.jpg
-    about: Authors writing about this reclaimed green space will discuss their inspiration.
+    about: Authors including Ayelet Tsabari and Jane Farrow will share their thoughts and writing about this reclaimed green space..
 ---
