@@ -137,10 +137,10 @@ don-river-edition:
     isbn: 9781770413795
     img: an_enduring_wilderness.jpg
 
-  - title: Fauna
+  - title: The Naturalist
     author: Alissa York
-    isbn: 9780307357908
-    img: fauna.jpg
+    isbn: 9780345815002
+    img: naturalist.jpg
 
   - title: 'Any Other Way: How Toronto Got Queer'
     author: John Lorinc, Jane Farrow
@@ -157,7 +157,7 @@ don-river-edition:
     isbn: 9781551526775
     img: scarborough.jpeg
 
-  - title: The Pot of Wisdom 
+  - title: The Pot of Wisdom
     author: Adwoa Badoe
     isbn: 9780888998699
     img: pot_of_wisdom.jpeg
@@ -166,3 +166,8 @@ don-river-edition:
     author: Adwoa Badoe
     isbn: 9780888999375
     img: nana.jpg
+
+  - title: Runaway Bicycle
+    author: Adwoa Badoe
+    isbn: Kindle Edition
+    img: runawaybicycle.jpg
