@@ -26,10 +26,10 @@ journey:
   - title: Brick Works
     subheading: Don River Valley
     img: 1.jpg
-    about: "Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health.
+    about: "Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health and author of Dancing in the Rain.
     Buy a farmer's market lunch, rent a bicycle, listen to authors & join us for a ride south along the Don River for the best afternoon in the city!"
   - title: Corktown Common
     subheading: Urban Prairie
     img: 2.jpg
-    about: Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant".  Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of queer shared houses, the demimonde world of Yonge Sgreet strip and the emergence of Queer West.  Intrigued? You should be ... Come for the words!
+    about: Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant". Jake Tobin Garrett, Park People Manager Policy & Research & contributor to Any Other Way will discuss the desire line. Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of queer shared houses, the demimonde world of Yonge Street strip and the emergence of Queer West.  Intrigued? You should be ... Come for the words!
 ---
