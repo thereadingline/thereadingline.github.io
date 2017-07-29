@@ -7,27 +7,29 @@
       </div>
     </div>
     <div class="row">
-    {% for member in site.data.team.people %}
+      {% for member in site.data.team.people %}
       <div class="col-sm-6 col-md-4">
         <div class="team-member">
           <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
           <h4>{{ member.name }}</h4>
           <p class="text-muted">{{ member.position }}</p>
           <ul class="list-inline social-buttons">
-          {% for network in member.social %}
+            {% for network in member.social %}
             <li>
               <a href="{{ network.url }}" target="_blank">
                 <i class="fa fa-{{ network.title }}"></i>
               </a>
             </li>
-          {% endfor %}
+            {% endfor %}
           </ul>
         </div>
       </div>
-    {% endfor %}
-    <div class="col-sm-12 text-center">
-      <h3 class="section-subheading text-muted">We are forever indebted to Cassie MacKenzie for designing our logo.</h3>
-    </div>
+      {% endfor %}
+      <div class="col-sm-12 text-center">
+        <h3 class="section-subheading text-muted">
+          Thanks to Gravity Inc. for creating the Book Ride logo. Thanks to Cassie MacKenzie for designing our The Reading Line logo.
+        </h3>
+      </div>
     </div>
   </div>
 </section>
