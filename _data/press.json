@@ -1,122 +1,156 @@
 {
-  "the-green-line": [[
-    {
-      "title": "Books, bikes and authors combine at weekend event",
-      "img": "toronto-star.png",
-      "link": "https://www.thestar.com/entertainment/books/2014/10/03/book_city_on_bloor.html"
-    },
-    {
-      "title": "Cyclists and authors promote Green Line initiative",
-      "img": "dandyhorse.jpg",
-      "link": "http://dandyhorsemagazine.com/blog/2014/10/07/reading-line-cyclists-and-authors-promote-green-line-initiative/"
-    },
-    {
-      "title": "Q&A: The Reading Line’s Amanda Lewis and Janet Joy Wilson",
-      "img": "quill-and-quire.jpg",
-      "link": "http://www.quillandquire.com/book-culture/2014/09/24/qa-the-reading-lines-amanda-lewis-and-janet-joy-wilson/"
-    },
-    {
-      "title": "Janet Joy Wilson on books to read during your commute.",
-      "img": "global.jpg",
-      "link": "http://globalnews.ca/video/1596497/janet-joy-wilson-on-books-to-read-during-your-commute"
-    }
-  ],[
-    {
-      "title": "Biking in a Big City - The Reading Line",
-      "img": "wordpress.png",
-      "link": "https://jnyyz.wordpress.com/2014/10/05/the-reading-line/"
-    }
-  ]],
-  "books-on-bloor": [[
-    {
-      "title": "What's On?",
-      "img": "cbc.jpg",
-      "link": "http://www.cbc.ca/metromorning/episodes/2015/05/29/whats-on-a-griot-summit-and-more/"
-    },
-    {
-      "title": "Readers, writers, and riders unite for Books on Bloor cycle tour",
-      "img": "inside-toronto.png",
-      "link": "http://www.insidetoronto.com/news-story/5646530-readers-writers-and-riders-unite-for-books-on-bloor-cycle-tour/"
-    },
-    {
-      "title": "The Reading Line - Book Ride May 30",
-      "img": "dandyhorse.jpg",
-      "link": "http://dandyhorsemagazine.com/blog/2015/05/26/the-reading-line-book-ride-may-30/"
-    },
-    {
-      "title": "The Reading Line 2015 aka Books (and Bikes) on Bloor",
-      "img": "dandyhorse.jpg",
-      "link": "http://dandyhorsemagazine.com/blog/2015/06/02/the-reading-line-2015-aka-books-and-bikes-on-bloor/"
-    }
-  ],[
-    {
-      "title": "Books on Bloor",
-      "img": "global.jpg",
-      "link": "http://globalnews.ca/video/2019988/books-on-bloor"
-    },
-    {
-      "title": "Interview with Nicole Martin",
-      "img": "680-news.png",
-      "link": "http://www.680news.com/"
-    },
-    {
-      "title": "Here and Now – In Studio Interview with Mary Ito",
-      "img": "cbc.jpg",
-      "link": "http://www.cbc.ca/hereandnowtoronto/"
-    },
-    {
-      "title": "Fresh Air - On Air Mention",
-      "img": "cbc.jpg",
-      "link": "http://www.cbc.ca/freshair/contact/"
-    }
-  ],[
-    {
-      "title": "Metro Morning - On Air Mention",
-      "img": "cbc.jpg",
-      "link": "http://www.cbc.ca/news/canada/toronto/programs/metromorning"
-    },
-    {
-      "title": "Biking in a Big City - Books on Bloor",
-      "img": "wordpress.png",
-      "link": "https://jnyyz.wordpress.com/2015/05/31/books-on-bloor/"
-    }
-  ]],
-  "books-on-bathurst": [[
-    {
-      "title": "THE BEST JANE100 EVENTS IN TORONTO",
-      "img": "now.png",
-      "link": "https://nowtoronto.com/news/the-best-jane100-events-in-toronto/"
-    },
-    {
-      "title": "Third annual ‘Books on Bathurst’ bike ride promoting improved cycling infrastructure in Toronto",
-      "img": "inside-toronto.png",
-      "link": "http://www.insidetoronto.com/news-story/6696632-third-annual-books-on-bathurst-bike-ride-promoting-improved-cycling-infrastructure-in-toronto/"
-    },
-    {
-      "title": "Voted 1 of Top 12 events for Toronto Bike Month 2016",
-      "img": "blogTO.png",
-      "link": "http://www.blogto.com/sports_play/2016/05/the_top_12_events_for_toronto_bike_month_in_2016/"
-    },
-    {
-      "title": "Janet Joy Wilson on Books on Bathurst",
-      "img": "global.jpg",
-      "link": "http://globalnews.ca/video/2723335/tms-book-club-16"
-    },
-  ],[
-    {
-      "title": "Bike Spotting Bloor with the women behind Books on Bathurst",
-      "img": "dandyhorse.jpg",
-      "link": "http://dandyhorsemagazine.com/blog/2016/05/21/bike-spotting-bloor-booksonbathurst-reading-line-2016/"
-    },
-    {
-      "title": "Books on Bathurst: The Reading Line 2016",
-      "img": "dandyhorse.jpg",
-      "link": "http://dandyhorsemagazine.com/blog/2016/05/30/books-on-bathurst-the-reading-line-2016/"
-    },
-    {
-      "title": "NEW CLASSICAL FM: Good Day GTA",
-      "img": "classical_fm.png",
-      "link": "/files/classical_fm_books_on_bathurst_interview.mp3"
-    }
-  ]]
+    "the-green-line": [
+        [
+            {
+                "title": "Books, bikes and authors combine at weekend event",
+                "img": "toronto-star.png",
+                "link": "https://www.thestar.com/entertainment/books/2014/10/03/book_city_on_bloor.html"
+            },
+            {
+                "title": "Cyclists and authors promote Green Line initiative",
+                "img": "dandyhorse.jpg",
+                "link": "http://dandyhorsemagazine.com/blog/2014/10/07/reading-line-cyclists-and-authors-promote-green-line-initiative/"
+            },
+            {
+                "title": "Q&A: The Reading Line’s Amanda Lewis and Janet Joy Wilson",
+                "img": "quill-and-quire.jpg",
+                "link": "http://www.quillandquire.com/book-culture/2014/09/24/qa-the-reading-lines-amanda-lewis-and-janet-joy-wilson/"
+            },
+            {
+                "title": "Janet Joy Wilson on books to read during your commute.",
+                "img": "global.jpg",
+                "link": "http://globalnews.ca/video/1596497/janet-joy-wilson-on-books-to-read-during-your-commute"
+            }
+        ],
+        [
+            {
+                "title": "Biking in a Big City - The Reading Line",
+                "img": "wordpress.png",
+                "link": "https://jnyyz.wordpress.com/2014/10/05/the-reading-line/"
+            }
+        ]
+    ],
+    "books-on-bloor": [
+        [
+            {
+                "title": "What's On?",
+                "img": "cbc.jpg",
+                "link": "http://www.cbc.ca/metromorning/episodes/2015/05/29/whats-on-a-griot-summit-and-more/"
+            },
+            {
+                "title": "Readers, writers, and riders unite for Books on Bloor cycle tour",
+                "img": "inside-toronto.png",
+                "link": "http://www.insidetoronto.com/news-story/5646530-readers-writers-and-riders-unite-for-books-on-bloor-cycle-tour/"
+            },
+            {
+                "title": "The Reading Line - Book Ride May 30",
+                "img": "dandyhorse.jpg",
+                "link": "http://dandyhorsemagazine.com/blog/2015/05/26/the-reading-line-book-ride-may-30/"
+            },
+            {
+                "title": "The Reading Line 2015 aka Books (and Bikes) on Bloor",
+                "img": "dandyhorse.jpg",
+                "link": "http://dandyhorsemagazine.com/blog/2015/06/02/the-reading-line-2015-aka-books-and-bikes-on-bloor/"
+            }
+        ],
+        [
+            {
+                "title": "Books on Bloor",
+                "img": "global.jpg",
+                "link": "http://globalnews.ca/video/2019988/books-on-bloor"
+            },
+            {
+                "title": "Interview with Nicole Martin",
+                "img": "680-news.png",
+                "link": "http://www.680news.com/"
+            },
+            {
+                "title": "Here and Now – In Studio Interview with Mary Ito",
+                "img": "cbc.jpg",
+                "link": "http://www.cbc.ca/hereandnowtoronto/"
+            },
+            {
+                "title": "Fresh Air - On Air Mention",
+                "img": "cbc.jpg",
+                "link": "http://www.cbc.ca/freshair/contact/"
+            }
+        ],
+        [
+            {
+                "title": "Metro Morning - On Air Mention",
+                "img": "cbc.jpg",
+                "link": "http://www.cbc.ca/news/canada/toronto/programs/metromorning"
+            },
+            {
+                "title": "Biking in a Big City - Books on Bloor",
+                "img": "wordpress.png",
+                "link": "https://jnyyz.wordpress.com/2015/05/31/books-on-bloor/"
+            }
+        ]
+    ],
+    "books-on-bathurst": [
+        [
+            {
+                "title": "THE BEST JANE100 EVENTS IN TORONTO",
+                "img": "now.png",
+                "link": "https://nowtoronto.com/news/the-best-jane100-events-in-toronto/"
+            },
+            {
+                "title": "Third annual ‘Books on Bathurst’ bike ride promoting improved cycling infrastructure in Toronto",
+                "img": "inside-toronto.png",
+                "link": "http://www.insidetoronto.com/news-story/6696632-third-annual-books-on-bathurst-bike-ride-promoting-improved-cycling-infrastructure-in-toronto/"
+            },
+            {
+                "title": "Voted 1 of Top 12 events for Toronto Bike Month 2016",
+                "img": "blogTO.png",
+                "link": "http://www.blogto.com/sports_play/2016/05/the_top_12_events_for_toronto_bike_month_in_2016/"
+            },
+            {
+                "title": "Janet Joy Wilson on Books on Bathurst",
+                "img": "global.jpg",
+                "link": "http://globalnews.ca/video/2723335/tms-book-club-16"
+            }
+        ],
+        [
+            {
+                "title": "Bike Spotting Bloor with the women behind Books on Bathurst",
+                "img": "dandyhorse.jpg",
+                "link": "http://dandyhorsemagazine.com/blog/2016/05/21/bike-spotting-bloor-booksonbathurst-reading-line-2016/"
+            },
+            {
+                "title": "Books on Bathurst: The Reading Line 2016",
+                "img": "dandyhorse.jpg",
+                "link": "http://dandyhorsemagazine.com/blog/2016/05/30/books-on-bathurst-the-reading-line-2016/"
+            },
+            {
+                "title": "NEW CLASSICAL FM: Good Day GTA",
+                "img": "classical_fm.png",
+                "link": "/files/classical_fm_books_on_bathurst_interview.mp3"
+            }
+        ]
+    ],
+    "don-river-edition": [
+        [
+            {
+                "title": "Books and Bicycles meet on The Reading Line",
+                "img": "canadian_cycling_magazine.jpg",
+                "link": ""
+            },
+            {
+                "title": "",
+                "img": "classical_935.png",
+                "link": ""
+            },
+            {
+                "title": "",
+                "img": "metro_morning.jpg",
+                "link": ""
+            },
+            {
+                "title": "The Reading Line merges the love of cycling and reading",
+                "img": "breakfast_television.gif",
+                "link": "http://www.bttoronto.ca/videos/the-reading-line-merges-the-love-of-cycling-and-reading/"
+            }
+        ]
+    ]
 }
