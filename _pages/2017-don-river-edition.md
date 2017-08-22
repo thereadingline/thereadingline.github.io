@@ -22,14 +22,14 @@ journey:
   - title: Children's Peace Theatre
     subheading: Massey Creek
     img: 4.jpg
-    about: 11 am to Noon   We will honour the land and its ancestors with readings by local author Catherine Hernandez who has written her debut novel, Scarborough, in a multi-voiced story about a Toronto neighbourhood that refuses to fall apart in the face of poverty and crime along with Ghana storyteller, Adwoa Badoe, author of more than a dozen children's books. Together they will share their stories for families of all ages in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.    
+    about: 11 am to Noon  We will honour the land and its ancestors with readings by local author Catherine Hernandez who has written her debut novel, Scarborough, in a multi-voiced story about a Toronto neighbourhood that refuses to fall apart in the face of poverty and crime along with Ghana storyteller, Adwoa Badoe, author of more than a dozen children's books. Together they will share their stories for families of all ages in the natural amphitheatre next to a meadow on the grounds of the Massey Goulding Estate.    
   - title: Brick Works
     subheading: Don River Valley
     img: 1.jpg
-    about: 1 pm to 2 pm   "Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health and author of Dancing in the Rain.
+    about: 1 pm to 2 pm  "Within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health and author of Dancing in the Rain.
     Buy a farmer's market lunch, rent a bicycle, listen to authors & join us for a ride south along the Don River for the best afternoon in the city!"
   - title: Corktown Common
     subheading: Urban Prairie
     img: 2.jpg
-    about: 3 pm to 4 pm    Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant". Jake Tobin Garrett, Park People Manager Policy & Research & contributor to Any Other Way will discuss the desire line. Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of queer shared houses, the demimonde world of Yonge Street strip and the emergence of Queer West.  Intrigued? You should be ... Come for the words!
+    about: 3 pm to 4 pm  Authors include Ayelet Tsabari author of the 'remarkable' The Best Place on Earth which has also been described as "powerful & brilliant". Jake Tobin Garrett, Park People Manager Policy & Research & contributor to Any Other Way will discuss the desire line. Additionally Jane Farrow will share her thoughts and writing about Any Other Way How Toronto Got Queer. This eclectic illustrated history extends from early colonial sex scandals and Oscar Wilde's trip to Toronto to the proliferation of queer shared houses, the demimonde world of Yonge Street strip and the emergence of Queer West.  Intrigued? You should be ... Come for the words!
 ---
