@@ -26,7 +26,7 @@ journey:
   - title: Brick Works
     subheading: Don River Valley
     img: 1.jpg
-    about: "From 1 pm to 2 pm, wmithin the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health and author of Dancing in the Rain.
+    about: "From 1 pm to 2 pm, within the former quarry and industrial site, we will see Robert Burley's extraordinary photographs of the enduring wilderness of Toronto's ravines and hear about the history of the area through the lens of literature with Alissa York. Our special guest is Nadha Hassen, a specialist on the impact of nature on mental health and author of Dancing in the Rain.
     Buy a farmer's market lunch, rent a bicycle, listen to authors & join us for a ride south along the Don River for the best afternoon in the city!"
   - title: Corktown Common
     subheading: Urban Prairie
