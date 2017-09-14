@@ -31,26 +31,26 @@ people:
       url: https://www.instagram.com/robertsonmcclure/
     - title: home
       url: http://robertsonmcclure.ca/
-- name: Ryan Collins-Swartz
-  pic: ryan
-  position: Marketing Manager
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ryancollinsswartz/
-    - title: twitter
-      url: https://twitter.com/ryancswartz
-    - title: instagram
-      url: https://www.instagram.com/libraryofus/
-    - title: envelope-o
-      url: mailto:rcollins.swartz@gmail.com
-- name: "Leonardo Zuñiga"
-  pic: leo
-  position: Outreach Coordinator
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/leonardoh4h/
-    - title: twitter
-      url: https://twitter.com/leonardoh4h
-    - title: instagram
-      url: https://www.instagram.com/leonardoh4h/
+# - name: Ryan Collins-Swartz
+#   pic: ryan
+#   position: Marketing Manager
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/ryancollinsswartz/
+#     - title: twitter
+#       url: https://twitter.com/ryancswartz
+#     - title: instagram
+#       url: https://www.instagram.com/libraryofus/
+#     - title: envelope-o
+#       url: mailto:rcollins.swartz@gmail.com
+# - name: "Leonardo Zuñiga"
+#   pic: leo
+#   position: Outreach Coordinator
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/leonardoh4h/
+#     - title: twitter
+#       url: https://twitter.com/leonardoh4h
+#     - title: instagram
+#       url: https://www.instagram.com/leonardoh4h/
   

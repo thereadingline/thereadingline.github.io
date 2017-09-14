@@ -7,7 +7,7 @@ date: 2017-08-26
 distance: 8
 description: "Our book ride in the Don Valley will focus on mental health, nature and exercise through the lens of literature. Cycling, like reading, exercises the mind and can elevate one’s mood and decrease stress and depression."
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1onvS6oh4BYR6qELmWKliWZ3ooDg
-future: true
+future: false
 about:
   - title: Children's Peace Theatre at 11 am
     img: fa-pagelines

@@ -7,13 +7,12 @@
           <h3 class="section-subheading text-muted">What the media is saying about our Book Rides!</h3>
         </div>
       </div>
-      {% capture book_ride %}{{ page.slug }}{% endcapture %}
-      {% for row in site.data.press[book_ride] %}
+      {% capture book_ride %}{{ page.slug }}{% endcapture %} {% for row in site.data.press[book_ride] %}
       <div class="row">
         {% for press in row %}
         <div class="col-md-3 col-sm-6">
           <a href="{{ press.link }}" target="_blank">
-            <img src="{{ site.url }}/img/logos/{{ press.img }}" class="img-responsive img-centered" alt="{{ press.name }}">
+            <img src="{{ site.url }}/img/logos/{{ press.img }}" class="img-responsive img-centered" alt="{{ press.name }}" style="max-height: 200px;">
             <span>{{ press.title }}</span>
           </a>
         </div>
