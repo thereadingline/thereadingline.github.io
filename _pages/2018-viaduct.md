@@ -11,7 +11,7 @@ future: true
 about:
   - title: Bathurst & Bloor at 11 am
     img: fa-book
-    body: The history of Bathurst & Bloor stretches back to the 1790s, when the original boundaries of York Township were first established. Many of the area’s Victorian homes along the residential stretches were built in the 1880s to the early 1900s. At the time of the Viaduct opening, a smaller landmark was constructed; it was known as the Bloor Cinema at 506 Bloor St. W. and today is The Hot Docs Ted Rogers Cinema. In this neighbourhood there lives a unique bookstore & event space offering book lovers literary gems from “the south to the north, from Africa to the Caribbean, from Asia to South America.” We will start our journey here.
+    body: The history of Bathurst & Bloor stretches back to the 1790s, when the original boundaries of York Township were first established. In this neighbourhood you'll find A Different Booklist bookstore & event space offering book lovers literary gems from “the south to the north, from Africa to the Caribbean, from Asia to South America.” We will start our journey here.
   - title: Prince Edward Viaduct Park at 1 pm
     img: fa-road
     body: The Viaduct bicycle lane is a vital part of Toronto's cycling infrastructure. The inadequacies and safety hazards of the bike lanes on and around the Bloor Viaduct have persisted for years. We intend to bridge the gap with books and bicycles.
