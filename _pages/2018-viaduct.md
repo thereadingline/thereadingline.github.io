@@ -19,16 +19,16 @@ about:
     img: fa-pagelines
     body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. After the Book Ride stroll along a section of the Danforth, grab an ice cream cone, a cappuccino or dinner.
 journey:
-  - title: Highlight One
-    subheading: Location
+  - title: Bathurst and Bloor
+    subheading: A Different Booklist
     img: 1.jpg
-    about: About   
-  - title: Highlight Two
-    subheading: Location
+    about: 11 am to noon. Author schedule to be announced in March.   
+  - title: Bloor Viaduct
+    subheading: Prince Edward Viaduct Parkette
     img: 2.jpg
-    about: About
-  - title: Highlight Three
-    subheading: Location
+    about: 1 pm to 2 pm we'll be found beside the steel and concrete Bloor Viaduct. Did you know it was constructed in three parts: a bridge over Rosedale Ravine, an embankment along Bloor Street and a 1,620 foot bridge over the Don Valley linking Castle Frank with Danforth Avenue. It was completed after almost four years to an official ceremony on October 18, 1918.
+  - title: Danforth
+    subheading: East Lynn Park
     img: 3.jpg
-    about: About
+    about: 3 pm to 4 pm. Author schedule to be announced in March.
 ---
