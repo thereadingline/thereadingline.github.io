@@ -26,7 +26,7 @@ journey:
   - title: Bloor Viaduct
     subheading: Prince Edward Viaduct Parkette
     img: 2.jpg
-    about: 1 pm to 2 pm we'll be found beside the steel and concrete Bloor Viaduct. Did you know it was constructed in three parts: a bridge over Rosedale Ravine, an embankment along Bloor Street and a 1,620 foot bridge over the Don Valley linking Castle Frank with Danforth Avenue. It was completed after almost four years to an official ceremony on October 18, 1918.
+    about: "1 pm to 2 pm we'll be found beside the steel and concrete Bloor Viaduct. Did you know it was constructed in three parts: a bridge over Rosedale Ravine, an embankment along Bloor Street and a 1,620 foot bridge over the Don Valley linking Castle Frank with Danforth Avenue. It was completed after almost four years to an official ceremony on October 18, 1918."
   - title: Danforth
     subheading: East Lynn Park
     img: 3.jpg
