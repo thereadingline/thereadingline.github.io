@@ -8,6 +8,7 @@ distance: 8
 description: We're celebrating the 100th anniversary of the Bloor Viaduct by bridging our city east to west with books and bicycles.
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1Fmp46dcepD9ef-DkFQ_AD8-zzTgi20-J
 future: true
+signuplink: false
 about:
   - title: Bathurst & Bloor at 11 am
     img: fa-book

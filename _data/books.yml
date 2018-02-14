@@ -166,3 +166,34 @@ don-river-edition:
     author: Nadha Hassen
     isbn: Order Direct from Nadha 
     img: dancingintherain.jpg
+
+brampton: 
+  - title: That Time I Loved You
+    author: Carrianne Leung
+    isbn: 9781443452861
+    img: that-time-i-loved-you.jpg
+
+  - title: The Miracles of Ordinary Men
+    author: Amanda Leduc
+    isbn: 9781770411111
+    img: miracles_ordinary_men.jpg
+  
+  - title: "Down Independence Boulevard: and other stories"
+    author: Ken Puddicombe
+    isbn: 9781480193284
+    img: down_independence_blvd.jpg
+  
+  - title: No TV for Woodpeckers
+    author: Gary Barwin
+    isbn: 9781928088301
+    img: no_tv.jpg
+
+  - title: Yiddish for Pirates
+    author: Gary Barwin
+    isbn: 9780345815521
+    img: yiddish.jpeg
+    
+  - title: Weather Permitting & Other Stories
+    author: Pratap Reddy
+    isbn: 9781771830560
+    img: weather_permitting.jpg

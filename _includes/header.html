@@ -3,7 +3,10 @@
   <div class="container">
     <div class="intro-text">
       <div class="intro-lead-in">Did you know,</div>
-      <div class="intro-heading">Books <i class="fa fa-plus" aria-hidden="true"></i> Bicycles = <i class="fa fa-heart-o" aria-hidden="true"></i></div>
+      <div class="intro-heading">Books
+        <i class="fa fa-plus" aria-hidden="true"></i> Bicycles =
+        <i class="fa fa-heart-o" aria-hidden="true"></i>
+      </div>
       <a href="#about" class="page-scroll btn btn-xl">Learn more</a>
     </div>
   </div>
@@ -14,6 +17,8 @@
     <div class="intro-text">
       <div class="intro-heading">{{ page.title }}</div>
       <div class="intro-lead-in">{{ page.date | date: "%B %-d, %Y"}}</div>
+      {% if page.future and page.signuplink %}
+      <a href="{{ page.signuplink }}" target="_blank" class="page-scroll btn btn-xl">Register Here</a>{% endif %}
     </div>
   </div>
 </header>
