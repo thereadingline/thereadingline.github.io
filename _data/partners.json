@@ -2,16 +2,34 @@
     "rows": [
         [
             {
+                "name": "fold.png",
+                "link": "http://thefoldcanada.org/"
+            },
+            {
+                "name": "brampton-library.png",
+                "link": "http://www.bramlib.on.ca/"
+            },
+            {
+                "name": "region-of-peel.png",
+                "link": "https://www.peelregion.ca/"
+            },
+            {
+                "name": "open-book.png",
+                "link": "http://open-book.ca/"
+            }
+        ],
+        [
+            {
                 "name": "toronto-arts-council.jpg",
                 "link": "http://www.torontoartscouncil.org/home"
             },
             {
-                "name": "the_great_trail.png",
-                "link": "https://thegreattrail.ca/celebrations/"
+                "name": "880.png",
+                "link": "https://www.880cities.org/"
             },
             {
-                "name": "evergreen_horizontal.png",
-                "link": "https://www.evergreen.ca/"
+                "name": "gravity_inc.png",
+                "link": "https://gravityinc.ca/"
             },
             {
                 "name": "ecw.png",
@@ -32,8 +50,8 @@
                 "link": "https://parkpeople.ca/"
             },
             {
-                "name": "gravity_inc.png",
-                "link": "https://gravityinc.ca/"
+                "name": "evergreen_horizontal.png",
+                "link": "https://www.evergreen.ca/"
             }
         ],
         [
@@ -130,6 +148,10 @@
             {
                 "name": "wilson.jpg",
                 "link": "http://www.wilsonhophotography.com/"
+            },
+            {
+                "name": "the_great_trail.png",
+                "link": "https://thegreattrail.ca/celebrations/"
             }
         ]
     ]
