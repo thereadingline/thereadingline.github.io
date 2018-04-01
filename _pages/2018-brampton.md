@@ -8,6 +8,7 @@ distance: 7
 description: We are thrilled to announce a partnership with The Festival of Literary Diversity. Together we are offering a free Book Ride in Brampton, Ontario. At the 2017 Ontario Bike Summit awards, Brampton achieved a bronze status designation, which recognizes a community that has launched several initiatives to promote a cycling culture. In recent years, the city has made investments in building a bicycle-friendly community, and championing bicycling as a safe, healthy means of recreation and transportation.
 route_src: https://www.google.com/maps/d/embed?mid=1Zmx4LDJJRXzu4sEjdSduST5tQU-w3aH3
 future: true
+waiver: brampton_waiver.pdf
 signuplink: https://www.eventbrite.ca/e/the-reading-line-brampton-book-ride-tickets-43133901661?aff=erelexpmlt
 about:
   - title: 11am Brampton Library, South Fletcher's Branch

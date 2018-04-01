@@ -18,7 +18,10 @@
       <div class="intro-heading">{{ page.title }}</div>
       <div class="intro-lead-in">{{ page.date | date: "%B %-d, %Y"}}</div>
       {% if page.future and page.signuplink %}
-      <a href="{{ page.signuplink }}" target="_blank" class="page-scroll btn btn-xl">Register Here</a>{% endif %}
+      <a href="{{ page.signuplink }}" target="_blank" class="page-scroll btn btn-xl">Register Here</a>
+      {% endif %} {% if page.waiver %}
+      <a href="{{ site.url }}/files/{{ page.waiver }}" target="_blank" class="page-scroll btn btn-xl" style="background-color:#999;border-color:#999;">Get the Waiver</a>
+      {% endif %}
     </div>
   </div>
 </header>
