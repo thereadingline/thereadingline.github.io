@@ -197,3 +197,32 @@ brampton:
     author: Pratap Reddy
     isbn: 9781771830560
     img: weather_permitting.jpg
+
+viaduct: 
+  - title: Fire Walkers
+    author: Bethlehem Terrefe Gebreyohannes
+    isbn: 9781927494790
+    img: fire_walkers.jpg
+
+  - title: From Surviving To Thriving
+    author: Fabiana Bacchini
+    isbn: 9781988757056
+    img: surviving_to_thriving.jpg
+
+  - title: That Time I Loved You
+    author: Carrianne Leung
+    isbn: 9781443452861
+    img: that_time_i_loved_you.jpg
+  
+  - title: Things Are Good Now
+    author: Djamila Ibrahim
+    isbn: 9781487001889
+    img: things_are_good_now.jpg  
+
+  - title: Royal Academy of Illustration and Design (RAID)
+    author: Ramón Pérez
+    img: ramon_perez.jpg
+
+  - title: Where We Live
+    author: Jay Pitter
+    img: jay_pitter.jpg

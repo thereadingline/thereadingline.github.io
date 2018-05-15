@@ -7,7 +7,7 @@
       </div>
     </div>
     <div class="row">
-    {% for book in site.data.books[page.slug] %}
+      {% for book in site.data.books[page.slug] %}
       <div class="col-md-4 col-sm-6 rides_list-item">
         <div style="background-color:#ccc;max-width: 400px;margin: 0 auto;">
           <img src="/img/books/{{ book.img }}" class="img-responsive img-centered" alt="" style="height:250px;">
@@ -15,14 +15,16 @@
         <div class="rides_list-caption">
           <h4>{{ book.title }}</h4>
           <p class="text-muted">{{ book.author }}</p>
+          {% if book.isbn %}
           <p class="text-muted">ISBN: {{ book.isbn }}</p>
+          {% endif %}
         </div>
       </div>
-    {% else %}
+      {% else %}
       <div class="col-lg-12 text-center">
         <h2>Coming soon ... </h2>
       </div>
-    {% endfor %}
+      {% endfor %}
     </div>
   </div>
 </section>
