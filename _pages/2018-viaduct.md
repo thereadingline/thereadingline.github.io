@@ -5,7 +5,7 @@ slug: viaduct
 permalink: /viaduct/
 date: 2018-08-26
 distance: 8
-description: 'We're celebrating the 100th anniversary of the Prince Edward Viaduct by bridging our city west to east with books and bicycles. Taking inspiration from IN THE SKIN OF A LION by Michael Ondaatje. “And the cyclist too on his flight claimed the bridge in that blurred movement, alone and illegal. Thunderous applause greeted him at the far end …”'
+description: 'We are celebrating the 100th anniversary of the Prince Edward Viaduct by bridging our city west to east with books and bicycles. Taking inspiration from IN THE SKIN OF A LION by Michael Ondaatje. “And the cyclist too on his flight claimed the bridge in that blurred movement, alone and illegal. Thunderous applause greeted him at the far end …”'
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1Fmp46dcepD9ef-DkFQ_AD8-zzTgi20-J
 future: true
 waiver: viaduct_waiver.pdf
