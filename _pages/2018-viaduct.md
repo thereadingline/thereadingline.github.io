@@ -45,7 +45,7 @@ journey:
 
     Journalist, speaker, volunteer and memoirist, Fabiana Bacchini will share her emotionally turbulent story, From Surviving to Thriving, of emigrating from Brazil to marry her Greek boyfriend in Canada and then learning a new language within the corridors of the NICU at Mount Sinai Hospital.
 
-    Dr. Marvin Macraig is the Scarborough Cycles Bike Hub Coordinator, a joint initiative between Access Alliance Multicultural Health and Community Services and the Toronto Centre for Active Transportation, in partnership with Birchmount Bluffs Neighbourhood Centre, CultureLink Settlement and Community Services, the Toronto Cycling Think & Do Tank, and Cycle Toronto. He works to increase cycling knowledge in Scarborough by building institutional/community capacity and addressing barriers. His goal is to get more people riding their bikes, and he will share all he is doing with the audience on our Book Ride."
+    Dr. Marvin Macraig is the Scarborough Cycles Bike Hub Coordinator, a joint initiative between Access Alliance Multicultural Health and Community Services and the Toronto Centre for Active Transportation, in partnership with Birchmount Bluffs Neighbourhood Centre, CultureLink Settlement and Community Services, the Toronto Cycling Think & Do Tank, and Cycle Toronto. He works to increase cycling knowledge in Scarborough by building institutional/community capacity and addressing barriers. His goal is to get more people riding their bikes, and he will share all he is doing with the audience on our Book Ride.
 
-    A Danny Finale program supported by the Danforth Mosaic BIA will be a word celebration including storytellers, music and food!
+    A Danny Finale program supported by the Danforth Mosaic BIA will be a word celebration including storytellers, music and food!"
 ---
