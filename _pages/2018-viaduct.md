@@ -27,7 +27,7 @@ journey:
     about: "1 to 1:45 pm.  Bethlehem Terrefe Gebreyohannes’s memoir Fire Walkers was published by Mawenzi House in 2016. Beth was fourteen when she fled Emperor Haile Selassie’s dictatorship in her native Ethiopia.
 
     Carrianne Leung will share her perspective of being a child of parents from Hong Kong, and speaking more broadly to the immigrant experience, which she wrote about in The Wondrous Woo (Ianna Publications) and her second acclaimed novel, That Time I Loved You (HarperCollins).
-    Siva Vijenthira will speak to the initiatives she has been involved in as Coordinator of Building Citizenship at the Institute for Canadian Citizenship, helping new citizens bridging the gap using the bicycle as a means of equity for all. Siva is also on the steering committee at the Toronto Centre for Active Transportation, a Cycle Toronto volunteer and has worked at Culture Link Canada."
+    Siva Vijenthira will speak to the initiatives she has been involved in at CultureLink and Cycle Toronto, helping newcomers bridge the gap using the bicycle as a means of equity for all. Siva is also on the steering committee at the Toronto Centre for Active Transportation, and works at the Institute for Canadian Citizenship to promote inclusion across the country."
   - title: Prince Edward Viaduct
     subheading: Prince Edward Viaduct Parkette
     img: 2.jpg
