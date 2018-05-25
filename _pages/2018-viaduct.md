@@ -19,7 +19,7 @@ about:
     body: The Viaduct bicycle lane is a vital part of Toronto's cycling infrastructure. The inadequacies and safety hazards of the bike lanes on and around the Prince Edward Viaduct have persisted for years. We intend to bridge the gap with books and bicycles.
   - title: East Lynn Park on Danforth at 4 pm
     img: fa-pagelines
-    body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. In the three kilometres of Danforth East you'll find a wide range of restaurants, food shops and stores and the people who these places their own. Feel the energy and spirit of a neighbourhood that is truly unique.
+    body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. In Danforth East you'll find a wide range of restaurants, food shops and stores and the people who these places their own. Feel the energy and spirit of a neighbourhood that is truly unique.
 journey:
   - title: Bathurst and Bloor
     subheading: A Different Booklist
