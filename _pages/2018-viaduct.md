@@ -13,13 +13,13 @@ signuplink: https://www.eventbrite.ca/e/book-ride-viaduct100-tickets-46086656430
 about:
   - title: Bathurst & Bloor at 1 pm
     img: fa-book
-    body: The history of Bathurst & Bloor stretches back to the 1790s, when the original boundaries of York Township were first established. In this neighbourhood you'll find A Different Booklist bookstore & event space offering book lovers literary gems from “the south to the north, from Africa to the Caribbean, from Asia to South America.” We will start our journey here.
+    body: The history of Bathurst & Bloor stretches back to the 1790s, when the original boundaries of York Township were first established. In this neighbourhood you'll find A Different Booklist bookstore & event space offering book lovers literary gems from “the south to the north, from Africa to the Caribbean, from Asia to South America.” We will start our Book Ride just south of here on Lennox Street.
   - title: Prince Edward Viaduct Parkette at 2:30 pm
     img: fa-road
-    body: The Viaduct bicycle lane is a vital part of Toronto's cycling infrastructure. The inadequacies and safety hazards of the bike lanes on and around the Bloor Viaduct have persisted for years. We intend to bridge the gap with books and bicycles.
+    body: The Viaduct bicycle lane is a vital part of Toronto's cycling infrastructure. The inadequacies and safety hazards of the bike lanes on and around the Prince Edward Viaduct have persisted for years. We intend to bridge the gap with books and bicycles.
   - title: East Lynn Park on Danforth at 4 pm
     img: fa-pagelines
-    body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. After the Book Ride stroll along a section of the Danforth, grab an ice cream cone, a cappuccino or dinner.
+    body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. In the three kilometres of Danforth East you'll find a wide range of restaurants, food shops and stores and the people who these places their own. Feel the energy and spirit of a neighbourhood that is truly unique.
 journey:
   - title: Bathurst and Bloor
     subheading: A Different Booklist
