@@ -1,7 +1,7 @@
 people:
 - name: Janet Joy Wilson
   pic: janet-joy-wilson
-  position: Co-Founder & Outreach Director
+  position: Artistic Director & Co-Founder
   social:
     - title: facebook
       url: https://www.facebook.com/janet.j.wilson.94
@@ -13,7 +13,7 @@ people:
       url: http://janetjoywilson.ca
 - name: Amanda Lewis
   pic: amanda-lewis
-  position: Co-Founder & Programming Director
+  position: Literary Director & Co-Founder
   social:
     - title: twitter
       url: https://twitter.com/aemlewis
@@ -53,4 +53,3 @@ people:
 #       url: https://twitter.com/leonardoh4h
 #     - title: instagram
 #       url: https://www.instagram.com/leonardoh4h/
-  
