@@ -164,10 +164,10 @@ don-river-edition:
 
   - title: Dancing in the Rain
     author: Nadha Hassen
-    isbn: Order Direct from Nadha 
+    isbn: Order Direct from Nadha
     img: dancingintherain.jpg
 
-brampton: 
+brampton:
   - title: That Time I Loved You
     author: Carrianne Leung
     isbn: 9781443452861
@@ -177,12 +177,12 @@ brampton:
     author: Amanda Leduc
     isbn: 9781770411111
     img: miracles_ordinary_men.jpg
-  
+
   - title: "Down Independence Boulevard: and other stories"
     author: Ken Puddicombe
     isbn: 9781480193284
     img: down_independence_blvd.jpg
-  
+
   - title: No TV for Woodpeckers
     author: Gary Barwin
     isbn: 9781928088301
@@ -192,13 +192,13 @@ brampton:
     author: Gary Barwin
     isbn: 9780345815521
     img: yiddish.jpeg
-    
+
   - title: Weather Permitting & Other Stories
     author: Pratap Reddy
     isbn: 9781771830560
     img: weather_permitting.jpg
 
-viaduct: 
+viaduct:
   - title: Fire Walkers
     author: Bethlehem Terrefe Gebreyohannes
     isbn: 9781927494790
@@ -213,16 +213,17 @@ viaduct:
     author: Carrianne Leung
     isbn: 9781443452861
     img: that_time_i_loved_you.jpg
-  
+
   - title: Things Are Good Now
     author: Djamila Ibrahim
     isbn: 9781487001889
-    img: things_are_good_now.jpg  
+    img: things_are_good_now.jpg
 
   - title: Royal Academy of Illustration and Design (RAID)
     author: Ramón Pérez
     img: ramon_perez.jpg
 
-  - title: Where We Live
-    author: Jay Pitter
-    img: jay_pitter.jpg
+  - title: "Subdivided: City Building in an Age of Hyper-Diversity"
+    author: John Lorine & Jay Pitter
+    isbn: 9781552453322
+    img: subdivided.jpg
