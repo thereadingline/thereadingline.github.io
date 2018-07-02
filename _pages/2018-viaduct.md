@@ -38,10 +38,10 @@ journey:
     img: 2.jpg
     about: "2:30 pm we'll be found beside the steel and concrete Prince Edward Viaduct. Did you know it was constructed in three parts: a bridge over Rosedale Ravine, an embankment along Bloor Street and a 1,620 foot bridge over the Don Valley linking Castle Frank with Danforth Avenue. It was completed after almost four years to an official ceremony on October 18, 1918.
     Amanda O’Rourke, Director of Strategic Planning at 8-80 Cities, has been instrumental in the organization’s development and has worked on numerous local and international projects."
-    - title: a grassy nook
-      subheading: Crossing continents to comics
-      img: something.jpg
-      about: "Djamila Ibrahim’s Things Are Good Now examines the weight of the migrant experience on the human psyche. On her pages, women, men, and children who’ve crossed continents in search of a better life find themselves struggling with the chaos of displacement and the religious and cultural clashes they face in their new homes. We will have graphic novelists from The Royal Academy of Illustration & Design (RAID), an award-winning multi-media creative collective and artist’s society established in 2002. Ramón K. Pérez, CEO, artist & writer and RAID will be writing and drawing an exclusive, original broadsheet for this Book Ride."
+  - title: a grassy nook
+    subheading: Crossing continents to comics
+    img: something.jpg
+    about: "Djamila Ibrahim’s Things Are Good Now examines the weight of the migrant experience on the human psyche. On her pages, women, men, and children who’ve crossed continents in search of a better life find themselves struggling with the chaos of displacement and the religious and cultural clashes they face in their new homes. We will have graphic novelists from The Royal Academy of Illustration & Design (RAID), an award-winning multi-media creative collective and artist’s society established in 2002. Ramón K. Pérez, CEO, artist & writer and RAID will be writing and drawing an exclusive, original broadsheet for this Book Ride."
   - title: Danforth
     subheading: East Lynn Park
     img: 3.jpg
