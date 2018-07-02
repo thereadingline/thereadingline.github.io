@@ -21,10 +21,10 @@ about:
     img: fa-pagelines
     body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. In Danforth East you'll find a wide range of restaurants, food shops and stores and the people who these places their own. Feel the energy and spirit of a neighbourhood that is truly unique.
 journey:
-  - title: Toronto
-    subheading: Accessibility
-    img: something.jpg
-    about: "ASL/English Interpreters will accompany us on bicycles from 1-5 pm. Bike Share Toronto will provide FREE bicycles to Book Ride participants at 12:30 but please note a helmet is mandatory for this offer. AND if you prefer TTC then our three locations are a short walk from Bathurst, Castle Frank and Woodbine stations on Line 2."
+  - title: Accessibility
+    subheading: ASL, Bikes and TTC
+    img: sign-language.jpg
+    about: "ASL/English Interpreters will accompany us on bicycles from 1-5 pm. Bike Share Toronto will provide FREE bicycles to Book Ride participants at 12:30 but please note a helmet is mandatory for this offer. Finally, if you prefer TTC then our three locations are a short walk from Bathurst, Castle Frank and Woodbine stations on Line 2."
   - title: Bathurst and Bloor
     subheading: A Different Booklist
     img: 1.jpg
@@ -45,11 +45,10 @@ journey:
   - title: Danforth
     subheading: East Lynn Park
     img: 3.jpg
-    about: "4 to 4:45 pm Dr. Marvin Macraig is the Scarborough Cycles Bike Hub Coordinator, a joint initiative between Access Alliance Multicultural Health and Community Services and the Toronto Centre for Active Transportation, in partnership with Birchmount Bluffs Neighbourhood Centre, CultureLink Settlement and Community Services, the Toronto Cycling Think & Do Tank, and Cycle Toronto. He works to increase cycling knowledge in Scarborough by building institutional/community capacity and addressing barriers. His goal is to get more people riding their bikes, and he will share all he is doing with the audience on our Book Ride.
-    Jay Pitter will speak from her perspective as an author, placemaker, and public engagement professional who has, throughout her career, spearheaded noteworthy projects with organizations such as the Ontario Arts Council, Toronto Community Housing, The Health and Safety Task Force, the City of Toronto, the Toronto District School Board and DIALOG, a national architecture firm. She is currently working on her second book, Where We Live (McClelland & Stewart).
+    about: "4 to 4:45 pm Dr. Marvin Macraig is the Scarborough Cycles Bike Hub Coordinator, a joint initiative between Access Alliance Multicultural Health and Community Services and the Toronto Centre for Active Transportation. He works to increase cycling knowledge in Scarborough by building institutional/community capacity and addressing barriers. Jay Pitter will speak from her perspective as an author, placemaker, and public engagement professional who has, throughout her career, spearheaded noteworthy projects with organizations such as the Ontario Arts Council, Toronto Community Housing, The Health and Safety Task Force, the City of Toronto, the Toronto District School Board and DIALOG, a national architecture firm. She is currently working on her second book, Where We Live (McClelland & Stewart).
     Journalist, speaker, volunteer and memoirist, Fabiana Bacchini will share her emotionally turbulent story, From Surviving to Thriving, of emigrating from Brazil to marry her Greek boyfriend in Canada and then learning a new language within the corridors of the NICU at Mount Sinai Hospital."
   - title: Park it here
     subheading: a DANNY Finale
     img: 3.jpg
-    about: "We are extending our Book Ride, thanks to the Danforth Mosaic BIA, with Storytelling Toronto's Sarah Abusarar whose favourite stories are ones that promote beauty and social change. Sarah mostly tells stories from her two cultures, Palestine and Croatia. To finish the day, Wilson & The Cast Aways is led by story-telling singer/songwriter Andrew Wilson and backed by a rotating cast of talented performers. They'll have stories and melodies that will catch your heart and set your soul vibrating to finish our 2018 Book Ride."
+    about: "Thanks to the Danforth Mosaic BIA we are extending our Book Ride with more words till 6:30 pm! Storytelling Toronto's Sarah Abusarar whose favourite stories are ones that promote beauty and social change. Sarah mostly tells stories from her two cultures, Palestine and Croatia. To finish the day, Wilson & The Cast Aways led by story-telling singer/songwriter Andrew Wilson will energize you with stories and melodies that are sure to catch your heart and set your soul vibrating. Pedal away with a coupon booklet with discounts to local eateries along the Danforth."
 ---
