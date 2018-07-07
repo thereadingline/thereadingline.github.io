@@ -54,7 +54,7 @@ journey:
   - title: Bicycle Decorating Hour
     subheading: Upcycling by DECA
     img: kid-bike.jpg
-    about: "Kids! Let's decorate your bicycle with Danforth East Community Association and Toronto Hustle in East Lynn Park. From 4-5 they'll provide fun upcycled materials for you to decorate your bicycle."
+    about: "Kids! Let's decorate your bicycle with Danforth East Community Association and Toronto Hustle in East Lynn Park. From 4-5 they'll provide fun upcycled materials for you to transform your bicycle."
   - title: Park it here
     subheading: a DANNY Finale
     img: woman-1910.jpg
