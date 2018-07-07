@@ -21,6 +21,10 @@ about:
     img: fa-pagelines
     body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. In Danforth East you'll find a wide range of restaurants, food shops and stores and the people who these places their own. Feel the energy and spirit of a neighbourhood that is truly unique.
 journey:
+  - title: Getting you ready
+    subheading: Heart and Hustle
+    img: toronto-hustle.jpg
+    about: "Bring your bicycle for some basic bicycle maintenance courtesy of Toronto Hustle from 12-12:45 at our first location! Toronto Hustle believes in cycling and the power of people to bring about positive change. We do too!"
   - title: Accessibility
     subheading: ASL, Bikes and TTC
     img: TSLIS.jpg
@@ -47,6 +51,10 @@ journey:
     img: 3.jpg
     about: "4 to 4:45 pm Dr. Marvin Macraig is the Scarborough Cycles Bike Hub Coordinator, a joint initiative between Access Alliance Multicultural Health and Community Services and the Toronto Centre for Active Transportation. He works to increase cycling knowledge in Scarborough by building institutional/community capacity and addressing barriers. Jay Pitter will speak from her perspective as an author, placemaker, and public engagement professional who has, throughout her career, spearheaded noteworthy projects with organizations such as the Ontario Arts Council, Toronto Community Housing, The Health and Safety Task Force, the City of Toronto, the Toronto District School Board and DIALOG, a national architecture firm. She is currently working on her second book, Where We Live (McClelland & Stewart).
     Journalist, speaker, volunteer and memoirist, Fabiana Bacchini will share her emotionally turbulent story, From Surviving to Thriving, of emigrating from Brazil to marry her Greek boyfriend in Canada and then learning a new language within the corridors of the NICU at Mount Sinai Hospital."
+  - title: Bicycle Decorating Hour
+    subheading: Upcycling by DECA
+    img: kid-bike.jpg
+    about: "Kids! Let's decorate your bicycle with Danforth East Community Association and Toronto Hustle in East Lynn Park. From 4-5 they'll provide fun upcycled materials for you to decorate your bicycle."
   - title: Park it here
     subheading: a DANNY Finale
     img: woman-1910.jpg
