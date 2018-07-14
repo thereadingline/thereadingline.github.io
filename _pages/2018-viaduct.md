@@ -45,7 +45,7 @@ journey:
   - title: a grassy nook
     subheading: Crossing continents to comics
     img: velo-1910.jpg
-    about: "We will have graphic novelists from The Royal Academy of Illustration & Design (RAID), an award-winning multi-media creative collective and artist’s society established in 2002. Ramón K. Pérez, CEO, artist & writer and RAID will be writing and drawing an exclusive, original broadsheet for this Book Ride."
+    about: "Melissa Bruntlett and Chris Bruntlett will share their stories of emerging bike cultures from around the world as gathered in their new book Building the Cycling City. AND we will have graphic novelists from The Royal Academy of Illustration & Design (RAID), an award-winning multi-media creative collective and artist’s society established in 2002. Ramón K. Pérez, CEO, artist & writer and RAID will be writing and drawing an exclusive, original broadsheet for this Book Ride."
   - title: Danforth
     subheading: East Lynn Park
     img: 3.jpg
