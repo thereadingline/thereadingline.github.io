@@ -22,9 +22,9 @@ about:
     body: Come discover East Lynn Park located on the south side of the Danforth between Coxwell and Woodbine. In Danforth East you'll find a wide range of restaurants, food shops and stores and the people who these places their own. Feel the energy and spirit of a neighbourhood that is truly unique.
 journey:
   - title: Getting you ready
-    subheading: Heart and Hustle
+    subheading: Pedals and Pizza
     img: toronto-hustle.jpg
-    about: "Bring your bicycle for some basic bicycle maintenance courtesy of Toronto Hustle from 12-12:45 at our first location! Toronto Hustle believes in cycling and the power of people to bring about positive change. We do too!"
+    about: "Bring your bicycle for some basic bicycle maintenance courtesy of Toronto Hustle from 12-12:45 at our first location! Toronto Hustle believes in cycling and the power of people to bring about positive change. We do too! At 12:30 Panago Pizza will deliver free slices to ensure we have pedal power."
   - title: Accessibility
     subheading: ASL, Bikes and TTC
     img: TSLIS.jpg
