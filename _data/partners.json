@@ -59,6 +59,9 @@
             { "name": "the_great_trail.png", "link": "https://thegreattrail.ca/celebrations/" },
             { "name": "childrenspeacetheatre.png", "link": "http://www.childrenspeacetheatre.org/" },
             { "name": "evergreen_horizontal.png", "link": "https://www.evergreen.ca/" }
+          ],
+          [
+            { "name": "panago.jpg", "link": "https://www.panago.com/" }
         ]
     ]
 }
