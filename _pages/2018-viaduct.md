@@ -14,7 +14,7 @@ about:
   - title: Bathurst & Bloor at 1 pm
     img: fa-book
     body: The history of Bathurst & Bloor stretches back to the 1790s, when the original boundaries of York Township were first established. We will start our Book Ride just south of here on Lennox at Lippincott.
-  - title: Prince Edward Viaduct Parkette at 2:30 pm
+  - title: Prince Edward Viaduct at 2:30 pm
     img: fa-road
     body: The Viaduct bicycle lane is a vital part of Toronto's cycling infrastructure. The inadequacies and safety hazards of the bike lanes on and around the Prince Edward Viaduct have persisted for years. We intend to bridge the gap with books and bicycles.
   - title: East Lynn Park on Danforth at 4 pm
