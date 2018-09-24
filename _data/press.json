@@ -187,9 +187,21 @@
                   "link": "https://www.bttoronto.ca/videos/5th-annual-book-ride/"
               },
               {
-                  "title": "Biking in a Big City - Books & Bikes along the Bloor Viaduct",
+                 "title": "Biking in a Big City - Books & Bikes along the Bloor Viaduct",
                   "img": "wordpress.png",
                   "link": "https://jnyyz.wordpress.com/"
+              },
+              {
+                  "title": "Late Summer Cycling and Storytelling in Toronto",
+                  "img": "dandyhorse.jpg",
+                  "link": "http://dandyhorsemagazine.com/blog/2018/08/30/velo-stories-of-late-august/"
+              }
+            ],
+            [
+              {
+                 "title": "Stories of Newcomers",
+                  "img": "snapd.png",
+                  "link": "https://beachdanforth.snapd.com/events/view/1176695"
             }
         ]
     ],
