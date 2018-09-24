@@ -180,6 +180,7 @@
                 "title": "All Booked Up: Go for a Ride with the Reading Line",
                 "img": "open-book.png",
                 "link": "http://open-book.ca/News/ALL-BOOKED-UP-Go-For-a-Ride-with-the-Reading-Line"
+<<<<<<< HEAD
               },
               {
                   "title": "Janet Joy Wilson, Artistic Director of the 5th Annual Book Ride joins us to talk about this year's exciting Book Ride!",
@@ -202,6 +203,19 @@
                  "title": "Stories of Newcomers",
                   "img": "snapd.png",
                   "link": "https://beachdanforth.snapd.com/events/view/1176695"
+=======
+            },
+            {
+                "title": "Janet Joy Wilson, Artistic Director of the 5th Annual Book Ride joins us to talk about this year's exciting Book Ride!",
+                "img": "breakfast_television.gif",
+                "link": "https://www.bttoronto.ca/videos/5th-annual-book-ride/"
+            },
+            {
+                "title": "Biking in a Big City - Books & Bikes along the Bloor Viaduct",
+                "img": "wordpress.png",
+                "link": "https://jnyyz.wordpress.com/"
+>>>>>>> ac6a8be20417588f0c2496755685dcfc96a5d061
             }
         ]
-    ],
+    ]
+}
