@@ -21,8 +21,8 @@
         [
             { "name": "wilson.jpg", "link": "http://www.wilsonhophotography.com/" },
             { "name": "curbside.png", "link": "https://curbsidecycle.com/" },
-            { "name": "toronto-public-library.jpg", "link": "http://www.torontopubliclibrary.ca/"},
+            { "name": "toronto-public-library.jpg", "link": "http://www.torontopubliclibrary.ca/" },
             { "name": "evergreen_horizontal.png", "link": "https://www.evergreen.ca/" }
         ]
     ]
-}
+} 
