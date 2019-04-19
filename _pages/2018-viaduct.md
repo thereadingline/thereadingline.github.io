@@ -8,8 +8,6 @@ distance: 8
 description: 'We celebrated the 100th anniversary of the Prince Edward Viaduct by bridging our city west to east with books and bicycles for all to hear. Taking inspiration from IN THE SKIN OF A LION by Michael Ondaatje. “And the cyclist too on his flight claimed the bridge in that blurred movement, alone and illegal. Thunderous applause greeted him at the far end …”'
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1Fmp46dcepD9ef-DkFQ_AD8-zzTgi20-J
 future: true
-waiver: viaduct_waiver.pdf
-signuplink: https://www.eventbrite.ca/e/book-ride-viaduct100-tickets-46086656430
 about:
   - title: Bathurst & Bloor at 1 pm
     img: fa-book
