@@ -6,7 +6,7 @@ permalink: /brooklyn/
 date: 2022-07-24
 distance: 10
 description: 'Description'
-route_src: https://www.google.ca/maps/d/u/0/embed?mid=1Fmp46dcepD9ef-DkFQ_AD8-zzTgi20-J
+route_src: https://www.google.ca/maps/d/u/0/embed?mid=1Rm9vFTK3PdSYmqFMdEC1vtOGKMMLvng&ehbc=2E312F
 future: true
 about:
   - title: About 1
