@@ -5,7 +5,7 @@ slug: brooklyn
 permalink: /brooklyn/
 date: 2022-07-24
 distance: 10
-description: 'Description'
+description: At The Reading Line's inaugural New York City Book Ride, Sasha Fletcher, author of Be Here to Love Me at The End of the World, published by Melville House, will read "soul-throttling prose" within Prospect Park in Brooklyn. 
 route_src: https://www.google.ca/maps/d/u/0/embed?mid=1Rm9vFTK3PdSYmqFMdEC1vtOGKMMLvng&ehbc=2E312F
 future: true
 about:
