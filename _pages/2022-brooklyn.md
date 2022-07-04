@@ -13,7 +13,7 @@ about:
     img: fa-book
     body: Anyone looking for a book club on two small wheels has come to the right spot! We're meeting on the 'open street' in front of [Unnameable Books](http://unnameablebooks.blogspot.com/) at 615 Vanderbilt Ave and St. Marks Ave in [Prospect Heights](https://www.nycgo.com/boroughs-neighborhoods/brooklyn/prospect-heights/) at 3 PM. This is your opportunity to purchase Sasha Fletcher's debut novel (limited quantity available) to get it signed at the reading.
   - title: The Route
-    img: fa-book
+    img: fa-road
     body: From the bookstore we will ride to Plaza St W, along Prospect Park W, & enter Prospect Park at 15th St. Under the shade of Prospect Park's tree canopy we'll cycle a loop to arrive after 4 pm at the Vale of Cashmere. Our leisurely & bookish ride is 6 miles long.
   - title: The Novel
     img: fa-pagelines
