@@ -21,6 +21,6 @@ about:
 journey:
   - title: Prospect Park
     subheading: Vale of Cashmere
-    img: toronto-hustle.jpg
+    img: brookly.jpg
     about: The wife of Brooklyn Mayor Alfred Chapin (1887-1891) nicknamed the area the “Vale of Cashmere,” inspired by the Thomas Moore poem “Lalla Roohk, an Oriental Romance.” Sasha Fletcher, author of Be Here to Love Me at The End of the World ~ published by Melville House, will read "soul-throttling prose" within the 'Natural Exploration Area' with logs to sit upon. After the reading, there will be a Q&A and certainly we'll continue talking about books and Bromptons!
 ---
