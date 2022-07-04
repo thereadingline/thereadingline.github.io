@@ -17,7 +17,7 @@ about:
     body: From the bookstore we will ride to Plaza St W, along Prospect Park W, & enter Prospect Park at 15th St. Under the shade of Prospect Park's tree canopy we'll cycle a loop to arrive after 4 pm at the Vale of Cashmere. Our leisurely & bookish ride is 6 miles long.
   - title: The Novel
     img: fa-pagelines
-    body: It's Brooklyn. Eleanor and Sam are in love. It's been a long week of missed deadlines and unread invoices. Later, the sky will look like they've never seen it before, but after that, it's the end of the world.
+    body: It's Brooklyn. Eleanor and Sam are in love. It's been a long week of missed deadlines and unread invoices. Later, the sky will look like they've never seen it before, but after that, it's the end of the world. Published in 2022 by Melville House, an independent publisher located in Brooklyn, New York.
 journey:
   - title: Prospect Park
     subheading: Vale of Cashmere
