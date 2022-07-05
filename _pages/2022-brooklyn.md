@@ -18,7 +18,7 @@ about:
   - title: The Novel
     img: fa-pagelines
     body: It's Brooklyn. Eleanor and Sam are in love. It's been a long week of missed deadlines and unread invoices. Later, the sky will look like they've never seen it before, but after that, it's the end of the world. Published in 2022 by Melville House, an independent publisher located in Brooklyn, New York.
-    Melville House is well-known for its fiction, with two Nobel Prize winners on its list. Imre Kertesz and Heinrich Boll. In particular, the company has developed a world-wide reputation for its rediscovery of forgotten international writers — its translation of a forgotten work by Hans Fallada, Every Man Dies Alone, launched a world-wide phenomenon. The company also takes pride in its discovery of many first-time writers — such as Tao Lin (Shoplifting from American Apparel), Jeremy Bushnell (The Weirdness) and Christopher Boucher (How to Keep Your Volkswagen Alive) — all of whom have gone on to greater success.
+    Melville House is well-known for its fiction, with two Nobel Prize winners on its list. The company developed a world-wide reputation for its rediscovery of forgotten international writers, its translation of a forgotten work by Hans Fallada, Every Man Dies Alone, that launched a world-wide phenomenon. The company also takes pride in its discovery of many first-time writers.
 journey:
   - title: Prospect Park
     subheading: Vale of Cashmere
