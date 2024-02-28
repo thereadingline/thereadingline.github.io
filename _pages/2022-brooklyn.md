@@ -17,12 +17,8 @@ about:
     body: "From the bookstore we will ride to Plaza St W, along Prospect Park W, & enter Prospect Park at 15th St. Under the shade of Prospect Park's tree canopy we'll cycle a loop to arrive after 4 pm at the Vale of Cashmere. Our leisurely & bookish ride is 6 miles long."
   - title: The Novel
     img: fa-pagelines
-<<<<<<< HEAD
-    body: It's Brooklyn. Eleanor and Sam are in love. It's been a long week of missed deadlines and unread invoices. Later, the sky will look like they've never seen it before, but after that, it's the end of the world. Published in 2022 by Melville House, an independent publisher located in Brooklyn, New York.
-=======
     body: "It's Brooklyn. Eleanor and Sam are in love. It's been a long week of missed deadlines and unread invoices. Later, the sky will look like they've never seen it before, but after that, it's the end of the world. Published in 2022 by Melville House, an independent publisher located in Brooklyn, New York.
     Melville House is well-known for its fiction, with two Nobel Prize winners on its list. Imre Kertesz and Heinrich Boll. In particular, the company has developed a world-wide reputation for its rediscovery of forgotten international writers — its translation of a forgotten work by Hans Fallada, Every Man Dies Alone, launched a world-wide phenomenon. The company also takes pride in its discovery of many first-time writers — such as Tao Lin (Shoplifting from American Apparel), Jeremy Bushnell (The Weirdness) and Christopher Boucher (How to Keep Your Volkswagen Alive) — all of whom have gone on to greater success."
->>>>>>> 872cbdff45cd83347a8ecc407ad086ee9cb76b1f
 journey:
   - title: Prospect Park
     subheading: Vale of Cashmere
