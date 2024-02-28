@@ -233,3 +233,13 @@ brooklyn:
     author: Sasha Fletcher
     isbn: 9781612199474
     img: be_here_to_love_me.jpg
+
+nyc:
+  - title: "Smoke Kings"
+    author: "Jahmal Mayfield"
+    isbn: 9781685891114
+    img: smokekings.jpg
+  - title: "A Black Girl in the Middle"
+    author: "Sehnequa Golding"
+    isbn: 9780807007983
+    img: ablackgirl.jpeg
